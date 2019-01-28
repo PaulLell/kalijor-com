@@ -1,0 +1,4 @@
+baseURL = "http://garibaldi0.github.io/kalijor-test"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "terrassa"
