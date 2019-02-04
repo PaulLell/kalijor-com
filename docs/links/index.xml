@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on Kalijor.com</title>
-    <link>/links/</link>
+    <link>/kalijor-test/links/</link>
     <description>Recent content in Links on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Thu, 22 Sep 2011 10:12:02 -0600</lastBuildDate>
     
-	<atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/links/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

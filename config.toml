@@ -1,6 +1,6 @@
 publishDir = "docs"
 #baseURL = "https://garibaldi0.github.io/kalijor-test/"
-baseURL = "/"
+baseURL = "/kalijor-test"
 languageCode = "en_us"
 title = "Kalijor.com"
 theme = "docdock"

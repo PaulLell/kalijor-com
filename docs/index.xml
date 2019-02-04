@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome! on Kalijor.com</title>
-    <link>/</link>
+    <link>/kalijor-test/</link>
     <description>Recent content in Welcome! on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Sun, 04 Nov 2018 21:52:00 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Author</title>
-      <link>/about/author/</link>
+      <link>/kalijor-test/about/author/</link>
       <pubDate>Fri, 12 Aug 2011 12:10:24 -0600</pubDate>
       
-      <guid>/about/author/</guid>
+      <guid>/kalijor-test/about/author/</guid>
       <description>My name is Paul Lell. I grew up in and around Arvada, Colorado (excepting a two year stint in Kansas because of my father&amp;rsquo;s work). I attended Arvada West High School, graduating in 1992. In 1994 I moved to Pueblo, Colorado where I spent five years attending the educational institute formerly known as the University of Southern Colorado. I started off as an engineering major (leaning toward civil engineering) until one day in the middle of an advanced trigonometry class I had a sudden epiphany: I no longer enjoyed doing math.</description>
     </item>
     
     <item>
       <title>Kalijor</title>
-      <link>/about/kalijor/</link>
+      <link>/kalijor-test/about/kalijor/</link>
       <pubDate>Fri, 12 Aug 2011 12:11:16 -0600</pubDate>
       
-      <guid>/about/kalijor/</guid>
+      <guid>/kalijor-test/about/kalijor/</guid>
       <description>Kalijor is the product of a lot of dreaming, a lot of hard work, and a lot of fun times. I conceived the world of Kalijor after nearly ten years of role playing with my friends through school. I loved the games we played but I quickly grew tired of trying to fit my own ideas inside the framework of the world settings that the source books offered. That and I wanted to have a better reason to tell my friends that they couldn&amp;rsquo;t play that uber evil-smashing mega knight deluxe character, and setting them in my own world with specifically allowable character types seemed the best way to go and make everyone fall in with a minimum of fuss.</description>
     </item>
     
     <item>
       <title>Kalijor.com</title>
-      <link>/about/kalijor-com/</link>
+      <link>/kalijor-test/about/kalijor-com/</link>
       <pubDate>Fri, 12 Aug 2011 12:11:50 -0600</pubDate>
       
-      <guid>/about/kalijor-com/</guid>
+      <guid>/kalijor-test/about/kalijor-com/</guid>
       <description>This web site was born of two very different needs. The first was to get the information about the book, sales, author and so forth out to you the people. Thus the primary page and associated links (this page included). The second need was to get out as much information about Kalijor as I possibly can. Kalijor is HUGE. MUCH larger than my novels will likely ever be able to encompass.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/_header/</link>
+      <link>/kalijor-test/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_header/</guid>
+      <guid>/kalijor-test/_header/</guid>
       <description></description>
     </item>
     

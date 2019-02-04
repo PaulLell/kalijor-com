@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kalijor RPG Core Book Errata on Kalijor.com</title>
-    <link>/rpg/changes-misses-corrections-and-omissions/kalijor-rpg-core-book-errata/</link>
+    <link>/kalijor-test/rpg/changes-misses-corrections-and-omissions/kalijor-rpg-core-book-errata/</link>
     <description>Recent content in Kalijor RPG Core Book Errata on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Mon, 09 Dec 2013 10:20:05 -0700</lastBuildDate>
     
-	<atom:link href="/rpg/changes-misses-corrections-and-omissions/kalijor-rpg-core-book-errata/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/rpg/changes-misses-corrections-and-omissions/kalijor-rpg-core-book-errata/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

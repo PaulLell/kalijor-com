@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Third Key of Kalijor on Kalijor.com</title>
-    <link>/books/keys-of-kalijor/the-third-key-of-kalijor/</link>
+    <link>/kalijor-test/books/keys-of-kalijor/the-third-key-of-kalijor/</link>
     <description>Recent content in The Third Key of Kalijor on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Fri, 12 Aug 2011 15:42:12 -0600</lastBuildDate>
     
-	<atom:link href="/books/keys-of-kalijor/the-third-key-of-kalijor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/books/keys-of-kalijor/the-third-key-of-kalijor/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

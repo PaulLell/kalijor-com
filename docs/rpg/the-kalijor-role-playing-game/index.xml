@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Kalijor Role Playing Game on Kalijor.com</title>
-    <link>/rpg/the-kalijor-role-playing-game/</link>
+    <link>/kalijor-test/rpg/the-kalijor-role-playing-game/</link>
     <description>Recent content in The Kalijor Role Playing Game on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Sun, 17 Feb 2013 20:44:48 -0700</lastBuildDate>
     
-	<atom:link href="/rpg/the-kalijor-role-playing-game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/rpg/the-kalijor-role-playing-game/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

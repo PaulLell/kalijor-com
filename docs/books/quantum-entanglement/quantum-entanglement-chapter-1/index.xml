@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Entanglement - Chapter 1 on Kalijor.com</title>
-    <link>/books/quantum-entanglement/quantum-entanglement-chapter-1/</link>
+    <link>/kalijor-test/books/quantum-entanglement/quantum-entanglement-chapter-1/</link>
     <description>Recent content in Quantum Entanglement - Chapter 1 on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Thu, 20 Apr 2017 21:45:56 -0600</lastBuildDate>
     
-	<atom:link href="/books/quantum-entanglement/quantum-entanglement-chapter-1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/kalijor-test/books/quantum-entanglement/quantum-entanglement-chapter-1/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
