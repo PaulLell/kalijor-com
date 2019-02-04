@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It Never Raynes - Chapter 2 on Kalijor.com</title>
-    <link>https://garibaldi0.github.io/kalijor-test/books/it-never-raynes/it-never-raynes-chapter-2/</link>
+    <link>/books/it-never-raynes/it-never-raynes-chapter-2/</link>
     <description>Recent content in It Never Raynes - Chapter 2 on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Tue, 07 Apr 2015 10:51:43 -0600</lastBuildDate>
     
-	<atom:link href="https://garibaldi0.github.io/kalijor-test/books/it-never-raynes/it-never-raynes-chapter-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/books/it-never-raynes/it-never-raynes-chapter-2/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

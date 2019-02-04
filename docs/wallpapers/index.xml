@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wallpapers on Kalijor.com</title>
-    <link>https://garibaldi0.github.io/kalijor-test/wallpapers/</link>
+    <link>/wallpapers/</link>
     <description>Recent content in Wallpapers on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Fri, 12 Aug 2011 19:12:01 -0600</lastBuildDate>
     
-	<atom:link href="https://garibaldi0.github.io/kalijor-test/wallpapers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/wallpapers/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

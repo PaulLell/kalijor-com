@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Kalijor: Kids Role Playing Game on Kalijor.com</title>
-    <link>https://garibaldi0.github.io/kalijor-test/rpg/the-kalijor-kids-role-playing-game/</link>
+    <link>/rpg/the-kalijor-kids-role-playing-game/</link>
     <description>Recent content in The Kalijor: Kids Role Playing Game on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Thu, 20 Jun 2013 10:49:59 -0600</lastBuildDate>
     
-	<atom:link href="https://garibaldi0.github.io/kalijor-test/rpg/the-kalijor-kids-role-playing-game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rpg/the-kalijor-kids-role-playing-game/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
