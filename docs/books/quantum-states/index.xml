@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum States on Kalijor.com</title>
+    <link>https://garibaldi0.github.io/kalijor-test/books/quantum-states/</link>
+    <description>Recent content in Quantum States on Kalijor.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_us</language>
+    <lastBuildDate>Fri, 27 Apr 2018 21:32:55 -0600</lastBuildDate>
+    
+	<atom:link href="https://garibaldi0.github.io/kalijor-test/books/quantum-states/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
