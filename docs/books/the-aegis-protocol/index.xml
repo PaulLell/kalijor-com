@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Aegis Protocol on Kalijor.com</title>
-    <link>/kalijor-test/books/the-aegis-protocol/</link>
+    <link>https://kalijor.garibaldi0.com/books/the-aegis-protocol/</link>
     <description>Recent content in The Aegis Protocol on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Tue, 15 Apr 2014 08:36:09 -0600</lastBuildDate>
     
-	<atom:link href="/kalijor-test/books/the-aegis-protocol/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalijor.garibaldi0.com/books/the-aegis-protocol/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

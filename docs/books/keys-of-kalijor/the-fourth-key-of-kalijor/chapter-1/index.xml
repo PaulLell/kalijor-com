@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter 1 on Kalijor.com</title>
-    <link>/kalijor-test/books/keys-of-kalijor/the-fourth-key-of-kalijor/chapter-1/</link>
+    <link>https://kalijor.garibaldi0.com/books/keys-of-kalijor/the-fourth-key-of-kalijor/chapter-1/</link>
     <description>Recent content in Chapter 1 on Kalijor.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <lastBuildDate>Mon, 09 Apr 2012 13:39:13 -0600</lastBuildDate>
     
-	<atom:link href="/kalijor-test/books/keys-of-kalijor/the-fourth-key-of-kalijor/chapter-1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalijor.garibaldi0.com/books/keys-of-kalijor/the-fourth-key-of-kalijor/chapter-1/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
