@@ -88,6 +88,10 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/books/quantum-states/quantum-states-chapter-2/</loc>
     <lastmod>2018-04-27T21:43:29-06:00</lastmod>
   </url>
@@ -168,6 +172,10 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/books/quantum-states/quantum-states-chapter-3/</loc>
     <lastmod>2018-04-27T21:45:43-06:00</lastmod>
   </url>
@@ -243,6 +251,10 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/kalijor/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/books/essequibo-river/</loc>
     <lastmod>2016-09-25T11:59:32-06:00</lastmod>
   </url>
@@ -278,6 +290,10 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/books/quantum-entanglement/</loc>
     <lastmod>2017-04-20T21:37:11-06:00</lastmod>
   </url>
@@ -295,6 +311,14 @@
   <url>
     <loc>https://kalijor.garibaldi0.com/books/short-stories/a-day-like-any-other/a-day-like-any-other-volume-v/</loc>
     <lastmod>2011-08-12T17:33:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/</loc>
   </url>
   
   <url>
@@ -318,8 +342,24 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/links/</loc>
     <lastmod>2011-09-22T10:12:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/</loc>
   </url>
   
   <url>
@@ -328,12 +368,116 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/</loc>
     <lastmod>2018-11-04T21:52:00+01:00</lastmod>
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/_footer/</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikicommon.css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikisidebar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/10mm_handgun/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/10mm_sub_machine_gun/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/achilles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/aegis_online/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/alina_martin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/almon_genloe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/ambrai_valkyrie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/anja_reyals/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/annwyn_thorindal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/april/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/arc_ships/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/artificial_gravity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/asteroid_belt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/avian/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/bartholomew_bart_jankoweitz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/base-line/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/beier_ikhaya/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/body_armor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/burning_expanse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/b%C3%AAte_noire/</loc>
   </url>
   
   <url>
@@ -342,8 +486,556 @@
   </url>
   
   <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/ceres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/chavan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/cohai_observatory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/cold_fusion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/communications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/computers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/cybernetics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/daray_dare_bowen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/darays_penthouse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/darren_owen_erricson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/dead_sea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/destra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/digerati/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/dinendal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/dissidents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/dorin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/dregs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/dwarf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/earth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/earth_ring_station/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/elf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/elkorine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/emil_frederick_phd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/energy_shields/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/equun-draco/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/exodus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/ezrina_reyals-thorindal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/felinoid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/flash-bang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/forest_of_brume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/gayle_dyson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/gelid_mountains/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/gene-line/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/gnome/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/goblin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/gornin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/great_inland_sea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/gregory_shantal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/grenade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/hand_to_hand_classifications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/hector/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/high-frequency_blade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/human/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/interstellar_travel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/isle_of_magic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/jax_arianas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/jonin_himabari/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/jumah_wataru/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/jupiter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/kaden_mcginley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/kalijor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/katrina_annwyn_thorindal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/kilishandra_thorindal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/lana_frederick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/laser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/lintang_kampong/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/loch_moore/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/luna/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/lycanthrope/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/magic_academy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/malice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/mars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/mars_station/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/mary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/minotaur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/mobius_industries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/monomolecular_blade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/neo-tokyo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/niko_nori/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/northern_wastes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/nuiri-qatnio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/obscuri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/ogre/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/onoba/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/orc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/pandoria/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/particle_beam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/pincher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/plain_of_serenity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/plain_of_sorrow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/psi-line/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/p%C3%A5-rymi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/quark_industries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/rathalon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/renchi-kas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/reptilian/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/resonance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/rhaeton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/riana_shandra_thorindal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/rianas_body/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/samantha_cobb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/saturn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/scalarythica/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/sean/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/selendria/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/solidarity_online/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/southern_plain_of_serenity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/southern_wastes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/spacecraft_technology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/t.r.i.p./</loc>
+  </url>
+  
+  <url>
     <loc>https://kalijor.garibaldi0.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/talanor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/tanor_naellis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/tech-line/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/the_astraeus_accord/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/the_battle_of_titan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/the_blitz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/corporations/the_conglomerate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_end/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/the_future/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_kestrel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_kitsune/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_methuselah/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_neophytes_serendipity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/the_purge/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_riotous_good_time/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/vehicles/the_seraphim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/the_tyconderoga/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/tor_rayean/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/tranquility/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/troll/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/turin_glastnost/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-kalijor/uraval_mountains/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/vargrus_valkyrie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/venus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/venus_station/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/vincent_torres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/wayne_nelson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/weapon_classifications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/weapon_technology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/willhelmina_orlova/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/wyndel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/places-future/xaman-otoch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-kalijor/xanthe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/people-future/xavier_quinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/creatures-kalijor/xeracra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/zyrik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/intrastellar_travel/</loc>
   </url>
   
 </urlset>
