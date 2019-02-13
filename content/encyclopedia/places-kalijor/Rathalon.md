@@ -1,6 +1,6 @@
-+++
-title = "Rathalon"
-+++
+---
+title: Rathalon
+---
 
 title:		Rathalon
 desc:		

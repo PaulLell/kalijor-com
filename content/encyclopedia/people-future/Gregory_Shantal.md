@@ -1,6 +1,6 @@
-+++
-title = "Gregory Shantal"
-+++
+---
+title: Gregory Shantal
+---
 
 title:		Gregory Shantal
 desc:		

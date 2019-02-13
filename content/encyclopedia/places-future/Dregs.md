@@ -1,6 +1,6 @@
-+++
-title = "Dregs"
-+++
+---
+title: Dregs
+---
 
 title:		Dregs
 desc:		

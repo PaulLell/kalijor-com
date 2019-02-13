@@ -1,6 +1,6 @@
-+++
-title = "Cybernetics"
-+++
+---
+title: Cybernetics
+---
 
 title:		Cybernetics
 desc:		

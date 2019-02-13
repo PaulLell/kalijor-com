@@ -1,6 +1,6 @@
-+++
-title = "Cohai Observatory"
-+++
+---
+title: Cohai Observatory
+---
 
 title:		Cohai Observatory
 desc:		

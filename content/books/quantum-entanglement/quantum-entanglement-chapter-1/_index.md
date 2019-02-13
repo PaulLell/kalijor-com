@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2017-04-20T21:45:56-06:00
 title: Quantum Entanglement - Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1447
-wordpress_url: http://www.kalijor.com/?page_id=1447
-date: '2017-04-20 21:45:56 -0600'
-date_gmt: '2017-04-21 03:45:56 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 <b>-Chapter 1-</b>
@@ -106,4 +88,3 @@ The man blinked a few times, then looked down at his dead companion and back at 
 &ldquo;Aidelon!&rdquo; he shouted.
 
 &ldquo;Alright!&rdquo; she shouted back. &ldquo;Abraham. Whatever!&rdquo; Holding her hand up toward him, fingers spread wide, she spared a glance over her shoulder at the stunned room full of thugs. &ldquo;Just get ready to pay me.&rdquo;
-

@@ -1,6 +1,6 @@
-+++
-title = "Niko Nori"
-+++
+---
+title: Niko Nori
+---
 
 title:		Niko Nori
 desc:		

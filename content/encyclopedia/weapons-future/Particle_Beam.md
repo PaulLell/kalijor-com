@@ -1,6 +1,6 @@
-+++
-title = "Particle Beam"
-+++
+---
+title: Particle Beam
+---
 
 title:		Particle Beam
 desc:		

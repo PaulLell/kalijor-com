@@ -1,6 +1,6 @@
-+++
-title = "Xavier Quinn"
-+++
+---
+title: Xavier Quinn
+---
 
 title:		Xavier Quinn
 desc:		

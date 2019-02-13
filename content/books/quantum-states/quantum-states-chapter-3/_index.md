@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2018-04-27T21:45:43-06:00
 title: Quantum States - Chapter 3
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1479
-wordpress_url: http://www.kalijor.com/?page_id=1479
-date: '2018-04-27 21:45:43 -0600'
-date_gmt: '2018-04-28 03:45:43 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 &ldquo;All I&rsquo;m saying is that an &rsquo;in-flight meal&rsquo; is more than just a package of peanuts and half a can of Coke,&rdquo; Ocelot groused. The small but surprisingly strong hand of the flight attendant tightened on her shoulder and a quick shove moved the assassin faster down the boarding hallway from the plane toward the terminal at Denver International Airport. &ldquo;If you don&rsquo;t want to get sued for false advertising, you should change the brochure.&rdquo;

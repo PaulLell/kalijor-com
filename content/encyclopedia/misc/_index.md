@@ -1,4 +1,4 @@
-+++
-title = "Misc."
-weight = 20
-+++
+---
+title: Misc.
+weight: 20
+---

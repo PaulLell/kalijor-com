@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2018-04-27T21:32:55-06:00
 title: Quantum States
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1465
-wordpress_url: http://www.kalijor.com/?page_id=1465
-date: '2018-04-27 21:32:55 -0600'
-date_gmt: '2018-04-28 03:32:55 -0600'
-categories: []
-tags: []
-comments: []
 weight: 6
 ---
 &nbsp;
@@ -33,10 +15,9 @@ A wise man once said that we create our own demons. When he said it, he meant th
 
 </div>
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/quantum-states/quantum-states-chapter-1">The sample chapters for Quantum States begin here.</a></td>
+<a title="Chapter 1" href="./quantum-states-chapter-1">The sample chapters for Quantum States begin here.</a></td>
 <td align="center" width="225">
-<p style="text-align: center;"><a href="https://www.kalijor.com/wp-content/uploads/2017/04/Quantum-Entanglement-eBook-cover.png"><br />
-</a><a href="https://www.kalijor.com/wp-content/uploads/2018/04/QS-Soft-E-Cvr-2.jpg"><img class="size-medium wp-image-1469 aligncenter" src="https://www.kalijor.com/wp-content/uploads/2018/04/QS-Soft-E-Cvr-2-199x300.jpg" alt="" width="199" height="300" /></a>
+<p style="text-align: center;"><img class="size-medium aligncenter" src="/images/QS-Soft-E-Cvr-2.jpg" alt="" width="199" height="300" /></a>
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;"><a href="http://www.lulu.com/spotlight/paullell" target="_blank" rel="noopener noreferrer"><img src="/images/Kalijor_Press.png" alt="Buy From Us" border="0" /></a> <a href="https://www.amazon.com/dp/B07CQCHLLS" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="/images/ShopAmazon.png" alt="Buy From Amazon" width="120" height="34" border="0" /></a></div>

@@ -1,6 +1,6 @@
-+++
-title = "Turin Glastnost"
-+++
+---
+title: Turin Glastnost
+---
 
 title:		Turin Glastnost
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Flash Bang"
-+++
+---
+title: Flash Bang
+---
 
 title:		Flash Bang
 desc:		

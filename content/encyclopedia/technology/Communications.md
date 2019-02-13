@@ -1,6 +1,6 @@
-+++
-title = "Communications"
-+++
+---
+title: Communications
+---
 
 title:		Communications
 desc:		

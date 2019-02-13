@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-12-09T10:01:08-07:00
 title: Changes, Misses, Corrections, and Omissions...
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1306
-wordpress_url: http://www.kalijor.com/?page_id=1306
-date: '2013-12-09 10:01:08 -0700'
-date_gmt: '2013-12-09 17:01:08 -0700'
-categories: []
-tags: []
-comments: []
 weight: 4
 ---
 Unfortunately, we miss things.
@@ -29,7 +11,4 @@ Even in today's world of print on demand and instant gratification, there is exp
 
 Items are categorized by book/supplement:
 
-<a href="https://www.kalijor.com/wp-content/uploads/2013/10/RPG-eCover1.jpg"><img class="alignleft size-medium wp-image-1289" alt="RPG-eCover" src="https://www.kalijor.com/wp-content/uploads/2013/10/RPG-eCover1.jpg" width="1" height="1" /></a>
-
-<a href="https://www.kalijor.com/rpg/changes-misses-corrections-and-omissions/kalijor-rpg-core-book-errata"><img class="alignnone size-thumbnail wp-image-1315" title="RPG-eCover" alt="RPG-eCover" src="https://www.kalijor.com/wp-content/uploads/2013/10/RPG-eCover1.jpg" width="1" height="1" /><img class="alignnone size-medium wp-image-1315" title="RPG-eCover" alt="RPG-eCover" src="https://www.kalijor.com/wp-content/uploads/2013/10/RPG-eCover1.jpg" width="1" height="1" /> Kalijor RPG Core Book</a>
-
+<a href="./kalijor-rpg-core-book-errata"><img class="alignnone size-thumbnail" title="RPG-eCover" alt="RPG-eCover" src="/images/RPG-eCover1.jpg" width="25%" height="25%" /> Kalijor RPG Core Book</a>

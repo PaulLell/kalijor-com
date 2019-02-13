@@ -1,7 +1,7 @@
-+++
-title = "Places of Kalijor"
-weight = 7
-+++
+---
+title: Places of Kalijor
+weight: 7
+---
 
 title:		Category:Places Kalijor
 desc:		

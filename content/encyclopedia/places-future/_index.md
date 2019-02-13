@@ -1,7 +1,7 @@
-+++
-title = "Places of the Future"
-weight = 6
-+++
+---
+title: Places of the Future
+weight: 6
+---
 
 title:		Category:Places Future
 desc:		

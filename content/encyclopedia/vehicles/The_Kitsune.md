@@ -1,6 +1,6 @@
-+++
-title = "The Kitsune"
-+++
+---
+title: The Kitsune
+---
 
 title:		The Kitsune
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Ezrina Reyals Thorindal"
-+++
+---
+title: Ezrina Reyals Thorindal
+---
 
 title:		Ezrina Reyals Thorindal
 desc:		

@@ -1,7 +1,7 @@
-+++
-title = "Encyclopedia"
-weight = 5
-+++
+---
+title: Encyclopedia
+weight: 5
+---
 
 # Encyclopedia Kalijor
 

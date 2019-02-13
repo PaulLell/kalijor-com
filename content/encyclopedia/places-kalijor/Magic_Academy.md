@@ -1,6 +1,6 @@
-+++
-title = "Magic Academy"
-+++
+---
+title: Magic Academy
+---
 
 title:		Magic Academy
 desc:		

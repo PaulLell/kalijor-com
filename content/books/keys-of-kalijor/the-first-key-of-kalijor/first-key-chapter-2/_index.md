@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T16:34:32-06:00
 title: Chapter 2
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 78
-wordpress_url: http://www.kalijor.com/?page_id=78
-date: '2011-08-12 16:34:32 -0600'
-date_gmt: '2011-08-12 22:34:32 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 The Rathalon bazaar was something everyone should see at least once in their life. The two main roads through the city were lined on either side with merchant's awnings under which stood tables, racks, stands, buckets, bushels, and hangers filled with anything anyone could possibly want. The treasures of Kalijor were here for the taking, if only the price could be met. People of all creeds and colors, species and sizes wandered the streets, from tent to tent, corner to corner; haggling, bartering, trading, buying, and selling. The bazaar itself put all this to shame. Easily the largest building in the city, it was packed with ten times the merchants as all of the city streets combined.
@@ -165,5 +147,4 @@ The girls looked at one another after finishing the letter. No words were said, 
 
 Katrina stared after her sister as she moved down the hall, closing the door behind her.
 
-<a title="Chapter 3" href="https://www.kalijor.com/books/keys-of-kalijor/the-first-key-of-kalijor/chapter-3">&nbsp;On to Chapter 3</a>
-
+[On to Chapter 3](../chapter-3)

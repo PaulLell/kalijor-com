@@ -1,6 +1,6 @@
-+++
-title = "Gene Line"
-+++
+---
+title: Gene Line
+---
 
 title:		Gene Line
 desc:		

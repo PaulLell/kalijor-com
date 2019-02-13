@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2014-04-15T09:37:15-06:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1366
-wordpress_url: http://www.kalijor.com/?page_id=1366
-date: '2014-04-15 09:37:15 -0600'
-date_gmt: '2014-04-15 15:37:15 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <h1 style="text-align: center;">-1-</h1>
@@ -41,5 +23,4 @@ To his credit, the man recovered quickly from the kick to his face. Aiming his w
 
 &nbsp;
 
-<a href="https://www.kalijor.com/books/the-aegis-protocol/chapter-2">--Next Chapter--</a>
-
+[--Next Chapter--](../chapter-2)

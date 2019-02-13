@@ -1,6 +1,6 @@
-+++
-title = "Vincent Torres"
-+++
+---
+title: Vincent Torres
+---
 
 title:		Vincent Torres
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Kalijor"
-+++
+---
+title: Kalijor
+---
 
 It is known that before the great war, the elves and dwarves lived in
 peace and harmony with one another. Their two great people ruled the

@@ -1,6 +1,6 @@
-+++
-title = "Southern Wastes"
-+++
+---
+title: Southern Wastes
+---
 
 title:		Southern Wastes
 desc:		

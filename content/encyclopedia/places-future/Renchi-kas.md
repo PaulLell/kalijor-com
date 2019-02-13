@@ -1,6 +1,6 @@
-+++
-title = "Renchi Kas"
-+++
+---
+title: Renchi Kas
+---
 
 title:		Renchi Kas
 desc:		

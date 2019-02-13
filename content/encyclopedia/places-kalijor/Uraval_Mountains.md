@@ -1,6 +1,6 @@
-+++
-title = "Uraval Mountains"
-+++
+---
+title: Uraval Mountains
+---
 
 title:		Uraval Mountains
 desc:		

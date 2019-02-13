@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2017-04-20T21:42:50-06:00
 title: Quantum Entanglement - Interlude 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1444
-wordpress_url: http://www.kalijor.com/?page_id=1444
-date: '2017-04-20 21:42:50 -0600'
-date_gmt: '2017-04-21 03:42:50 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <b><i>-Interlude 1-</i></b>
@@ -63,5 +45,4 @@ weight: 2
 
 <i>After all, I had other talents. I had a black belt and piles of trophies from all the tournaments I'd been to through my dojo. I could be every bit the jock as the popular kids...</i>
 
-<a href="https://www.kalijor.com/books/quantum-entanglement/quantum-entanglement-chapter-1">Chapter 1</a>
-
+[Chapter 1](../quantum-entanglement-chapter-1)

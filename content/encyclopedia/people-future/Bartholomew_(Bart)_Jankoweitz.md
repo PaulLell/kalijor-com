@@ -1,6 +1,6 @@
-+++
-title = "Bartholomew (Bart) Jankoweitz"
-+++
+---
+title: Bartholomew (Bart) Jankoweitz
+---
 
 title:		Bartholomew (Bart) Jankoweitz
 desc:		

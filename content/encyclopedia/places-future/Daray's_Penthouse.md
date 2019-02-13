@@ -1,6 +1,6 @@
-+++
-title = "Daray'S Penthouse"
-+++
+---
+title: Daray'S Penthouse
+---
 
 title:		Daray'S Penthouse
 desc:		

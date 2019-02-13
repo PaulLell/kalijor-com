@@ -1,25 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-09-22T10:12:02-06:00
 title: Links
-permalink: /links/
-main_nav: true
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 580
-wordpress_url: http://www.kalijor.com/?page_id=580
-date: '2011-09-22 10:12:02 -0600'
-date_gmt: '2011-09-22 16:12:02 -0600'
-categories: []
-tags: []
-comments: []
 weight: 7
 ---
 &nbsp;

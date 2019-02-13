@@ -1,6 +1,6 @@
-+++
-title = "Beier Ikhaya"
-+++
+---
+title: Beier Ikhaya
+---
 
 title:		Beier Ikhaya
 desc:		

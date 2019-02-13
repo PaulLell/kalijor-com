@@ -1,6 +1,6 @@
-+++
-title = "Destra"
-+++
+---
+title: Destra
+---
 
 title:		Destra
 desc:		

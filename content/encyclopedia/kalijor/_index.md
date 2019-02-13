@@ -1,7 +1,7 @@
-+++
-title = "Kalijor"
-weight = 3
-+++
+---
+title: Kalijor
+weight: 3
+---
 
 [The Future](The_Future)
 [The Conglomerate](The_Conglomerate "wikilink")

@@ -1,6 +1,6 @@
-+++
-title = "Selendria"
-+++
+---
+title: Selendria
+---
 
 title:		Selendria
 desc:		

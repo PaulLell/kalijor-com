@@ -1,6 +1,6 @@
-+++
-title = "Samantha Cobb"
-+++
+---
+title: Samantha Cobb
+---
 
 title:		Samantha Cobb
 desc:		

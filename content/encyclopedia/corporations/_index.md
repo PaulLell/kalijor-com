@@ -1,4 +1,4 @@
-+++
-title = "Corporations of the Sol System"
-weight = 1
-+++
+---
+title: Corporations of the Sol System
+weight: 1
+---

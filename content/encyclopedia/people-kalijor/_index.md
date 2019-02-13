@@ -1,7 +1,7 @@
-+++
-title = "People of Kalijor"
-weight = 5
-+++
+---
+title: People of Kalijor
+weight: 5
+---
 
 title:		Category:People Kalijor
 desc:		

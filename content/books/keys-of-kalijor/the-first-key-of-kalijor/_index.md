@@ -1,8 +1,8 @@
-+++
-title = "The First Key of Kalijor"
-date = '2011-08-12 12:10:24 -0600'
-weight = 1
-+++
+---
+date: 2011-08-12 12:10:24 -0600
+title: The First Key of Kalijor
+weight: 1
+---
 <table width="100%" align="left">
 <tbody>
 <tr>
@@ -13,7 +13,7 @@ An amazing story from a debut author, The First Key of Kalijor follows the adven
 Described by many as 'Firefly meets Middle Earth via the Matrix', this story will drag you through two different worlds on a wild adventure that will leave you panting for breath and craving more!
 
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/keys-of-kalijor/the-first-key-of-kalijor/chapter-1">The sample chapters for The First Key of Kalijor begin here.</a></td>
+<a title="Chapter 1" href="./chapter-1">The sample chapters for The First Key of Kalijor begin here.</a></td>
 <td align="center" width="225"><img src="/images/First_Key_Cover.png" alt="" border="1" />
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>

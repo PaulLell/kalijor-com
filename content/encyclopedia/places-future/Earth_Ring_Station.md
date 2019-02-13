@@ -1,6 +1,6 @@
-+++
-title = "Earth Ring Station"
-+++
+---
+title: Earth Ring Station
+---
 
 title:		Earth Ring Station
 desc:		

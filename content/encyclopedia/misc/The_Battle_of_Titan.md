@@ -1,6 +1,6 @@
-+++
-title = "The Battle of Titan"
-+++
+---
+title: The Battle of Titan
+---
 
 After [The Purge](../the_purge) it took years for those who lost
 their homes and families to find a place to put down roots and start

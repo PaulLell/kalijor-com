@@ -1,6 +1,6 @@
-+++
-title = "Zyrik"
-+++
+---
+title: Zyrik
+---
 
 title:		Zyrik
 desc:		

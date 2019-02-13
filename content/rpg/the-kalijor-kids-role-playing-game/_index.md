@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-06-20T10:49:59-06:00
 title: 'The Kalijor: Kids Role Playing Game'
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1089
-wordpress_url: http://www.kalijor.com/?page_id=1089
-date: '2013-06-20 10:49:59 -0600'
-date_gmt: '2013-06-20 16:49:59 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 &nbsp;
@@ -62,13 +44,10 @@ Classes include:
 <li>The Digerati</li>
 </ul>
 </td>
-<td align="center" width="225"><a href="https://www.kalijor.com/wp-content/uploads/2013/06/product_thumbnail.jpg"><img class="alignright size-medium wp-image-1147" alt="product_thumbnail" src="https://www.kalijor.com/wp-content/uploads/2013/06/product_thumbnail-295x300.jpg" width="295" height="300" /></a>
+<td align="center" width="225"><img class="alignright size-medium" alt="product_thumbnail" src="/images/product_thumbnail.jpg" width="295" height="300" /></a>
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;"><a href="http://www.lulu.com/shop/paul-lell/kalijor-kids-rpg/paperback/product-21111021.html"><img alt="Buy From Us" src="/images/Kalijor_Press.png" border="0" /></a></div>
-<!--<br />
-<a href="https://www.kalijor.com/downloads/kalijor-rpg-for-kids">Or download the PDF version here</a><br />
--->
 </td>
 </tr>
 </tbody>

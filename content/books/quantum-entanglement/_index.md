@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2017-04-20T21:37:11-06:00
 title: Quantum Entanglement
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1439
-wordpress_url: http://www.kalijor.com/?page_id=1439
-date: '2017-04-20 21:37:11 -0600'
-date_gmt: '2017-04-21 03:37:11 -0600'
-categories: []
-tags: []
-comments: []
 weight: 5
 ---
 <table width="100%" align="left">
@@ -39,9 +21,9 @@ But it's also a promise... TO A DRAGON!
 
 </div>
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/quantum-entanglement/quantum-entanglement-prelude">The sample chapters for Quantum Entanglement&nbsp;begin here.</a></td>
+<a title="Chapter 1" href="./quantum-entanglement-prelude">The sample chapters for Quantum Entanglement&nbsp;begin here.</a></td>
 <td align="center" width="225">
-<p style="text-align: center;"><a href="https://www.kalijor.com/wp-content/uploads/2017/04/Quantum-Entanglement-eBook-cover.png"><img class="size-medium wp-image-1454 aligncenter" src="https://www.kalijor.com/wp-content/uploads/2017/04/Quantum-Entanglement-eBook-cover-199x300.png" alt="" width="199" height="300" /></a>
+<p style="text-align: center;"><img class="size-medium aligncenter" src="/images/Quantum-Entanglement-eBook-cover.png" alt="" width="199" height="300" /></a>
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;"><a href="http://www.lulu.com/spotlight/paullell" target="_blank" rel="noopener noreferrer"><img src="/images/Kalijor_Press.png" alt="Buy From Us" border="0" /></a> <a href="https://read.amazon.com/kp/embed?asin=B06ZYKQ5DL&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q1TxzbNN1M56Q" target="_blank" rel="noopener noreferrer"><img src="/images/ShopAmazon.png" alt="Buy From Amazon" border="0" /></a></div>

@@ -1,6 +1,6 @@
-+++
-title = "Monomolecular Blade"
-+++
+---
+title: Monomolecular Blade
+---
 
 title:		Monomolecular Blade
 desc:		

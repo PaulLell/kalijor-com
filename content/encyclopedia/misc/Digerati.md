@@ -1,6 +1,6 @@
-+++
-title = "Digerati"
-+++
+---
+title: Digerati
+---
 
 Digerati are the elite computer hackers and programmers who move through
 the net as if it were their own personal play space. True Digerati, not

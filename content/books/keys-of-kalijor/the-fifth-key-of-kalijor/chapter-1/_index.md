@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-04-26T13:04:27-06:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1039
-wordpress_url: http://www.kalijor.com/?page_id=1039
-date: '2013-04-26 13:04:27 -0600'
-date_gmt: '2013-04-26 19:04:27 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 Brushing a lock of dark purple hair behind her long pointed ear, even as it twitched with agitation, Riana looked out at the transparent dome keeping Neo-Tokyo&rsquo;s precious atmosphere inside. It was underlaid with a layer of darkening smoke that glowed slightly with the flickering light of numerous fires and the steady lights of the city beneath. Flashes of gunfire lit up swirling holes in the smokey canopy, but the multi-colored lights of emergency and fire-suppression vehicles were nowhere in sight.
@@ -61,5 +43,4 @@ Shaking his head at the empty space, Vincent sighed. "I'm not sure I'll ever get
 
 &nbsp;
 
-<a href="https://www.kalijor.com/books/keys-of-kalijor/the-fifth-key-of-kalijor/chapter-2">Chapter 2</a>
-
+[Chapter 2](../chapter-2)

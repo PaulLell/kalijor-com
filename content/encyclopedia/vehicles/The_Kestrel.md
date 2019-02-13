@@ -1,6 +1,6 @@
-+++
-title = "The Kestrel"
-+++
+---
+title: The Kestrel
+---
 
 title:		The Kestrel
 desc:		

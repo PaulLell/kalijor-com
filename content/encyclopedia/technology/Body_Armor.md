@@ -1,6 +1,6 @@
-+++
-title = "Body Armor"
-+++
+---
+title: Body Armor
+---
 
 title:		Body Armor
 desc:		

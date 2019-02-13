@@ -1,6 +1,6 @@
-+++
-title = "Mary"
-+++
+---
+title: Mary
+---
 
 In early 2250, [T.R.I.P.](../../corporations/t.r.i.p/) enganged in the very
 first complete human DNA wash on a living, grown person. Before this

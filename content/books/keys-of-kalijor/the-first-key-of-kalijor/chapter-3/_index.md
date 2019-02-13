@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T16:43:01-06:00
 title: Chapter 3
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 84
-wordpress_url: http://www.kalijor.com/?page_id=84
-date: '2011-08-12 16:43:01 -0600'
-date_gmt: '2011-08-12 22:43:01 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 They were both up before the daylight began, making preparations for their journey. Riana had gone out and visited the clothing shop where they had found the leather garments the previous day, waking the poor man well before he was used to getting up. When she told him she was related to Ezrina, whom he had known for a long time he had readily agreed to help her by discounting the articles slightly and further enchanting the materials to reduce the friction they would cause against her skin. He also cast a few enchantments upon a belt and pouches that she picked out that allowed them to reduce the weight of anything the belt supported.
@@ -37,5 +19,4 @@ Riana wore a tight fitting bodice above a breechcloth that hung to well below he
 
 As she reached for the door, Riana was taken with the sick feeling that she would never see this place again. It was not a feeling of doom, or some disaster, in fact she was quite confident in their success. Something was nagging at the back of her aching mind as if trying to tell her to let it all go. Pushing the door open, she dismissed it as being related to her headache and stepped out into the hallway. Together, Riana and Katrina took their first steps into their new lives. Riana wasn't sure if they were truly ready, but she knew they had no choice now in the finding out.
 
-<a title="The First Key of Kalijor" href="https://www.kalijor.com/books/keys-of-kalijor/the-first-key-of-kalijor">Back to The First Key of Kalijor</a>
-
+[Back to The First Key of Kalijor](../)

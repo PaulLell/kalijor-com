@@ -1,6 +1,6 @@
-+++
-title = "Computers"
-+++
+---
+title: Computers
+---
 
 title:		Computers
 desc:		

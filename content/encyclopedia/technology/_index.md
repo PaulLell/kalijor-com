@@ -1,7 +1,7 @@
-+++
-title = "Technology of the Future"
-weight = 8
-+++
+---
+title: Technology of the Future
+weight: 8
+---
 
 title:		Category:Technology
 desc:		

@@ -1,48 +1,31 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:41:34-06:00
 title: Zyrk
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 127
-wordpress_url: http://www.kalijor.com/?page_id=127
-date: '2011-08-12 17:41:34 -0600'
-date_gmt: '2011-08-12 23:41:34 -0600'
-categories: []
-tags: []
-comments: []
-weight: 6
+weight: 5
 ---
-<strong>Name:</strong> Zyrk
+**Name:** Zyrk
 
-<strong> Age:</strong> 23
+**Age:** 23
 
-<strong> Gender: </strong>Male
+**Gender:** Male
 
-<strong> Height:</strong> 5 feet, 9 inches standing tall.Usually slouching or hunched over so he looks to be closer to four feet, 6inches.
+**Height:** 5 feet, 9 inches standing tall.Usually slouching or hunched over so he looks to be closer to four feet, 6inches.
 
-<strong> Skills/Talents: </strong>Zyrk is an accomplishedbrawler, having learned the hard way how to defend himself and get what heneeds. He is by no means a master martial artist or heavy-weight pugilist, buthe can hold his own in a fight and is not at all opposed to &lsquo;cheating&rsquo; in orderto win. Additionally, Zyrk has practiced the arts of pick pocketing, palming,and picking locks to the point that he can &lsquo;make ends meet&rsquo; with little to noactual &lsquo;work&rsquo; taking place. He is an accomplished sword fighter, although heprefers to use daggers or his trusty Ironwood Bastone when weapons are calledfor in a fight. He is quick on his feet, has an excellent sense of balance andcan scale most surfaces with little danger of falling or slipping (partially dueto the retractable claws in his finger tips). He is in peak physical conditionalthough by no means exceptionally strong. He speaks Mwene and Arcadian fluentlyand knows a few bits and pieces of various other languages since Arcadia is aport of trade, although he really can&rsquo;t even have a basic conversation in any ofthem.
+**Skills/Talents:** Zyrk is an accomplished brawler, having learned the hard way how to defend himself and get what he needs. He is by no means a master martial artist or heavy-weight pugilist, but he can hold his own in a fight and is not at all opposed to &lsquo;cheating&rsquo; in order to win. Additionally, Zyrk has practiced the arts of pick pocketing, palming,and picking locks to the point that he can &lsquo;make ends meet&rsquo; with little to noactual &lsquo;work&rsquo; taking place. He is an accomplished sword fighter, although heprefers to use daggers or his trusty Ironwood Bastone when weapons are calledfor in a fight. He is quick on his feet, has an excellent sense of balance andcan scale most surfaces with little danger of falling or slipping (partially dueto the retractable claws in his finger tips). He is in peak physical conditionalthough by no means exceptionally strong. He speaks Mwene and Arcadian fluentlyand knows a few bits and pieces of various other languages since Arcadia is aport of trade, although he really can&rsquo;t even have a basic conversation in any ofthem.
 
-<strong> Physical Description: </strong>Zyrk is descendedfrom the Jaguar people of the deep Mwene jungles. As such he has a dark, goldentone to his fur and is mottled with randomly shaped, black rings across hisback, outer arms, and outer legs. His chest, stomach and inner arms and legs area much lighter and softer fur, closer to a cream or eggshell color. He hasbright, vibrant blue eyes and the tip of his left ear is split vertically abouthalf way down the length from an old fight that did not end the way he wouldhave hoped. He has well defined, sinuous muscles and is deceptively nimble forhis size, but nowhere near as strong as the majority of his people. His tail islong, about one and a half times the length of his legs and is stark white atthe very tip and lined with concentric black rings down the rest of the length.He has retractable claws in the tips of all of his toes and fingers. His choicein apparel is simple, often borderline poverty-stricken in appearance, althoughit is simply part of his carefully crafted image.
+**Physical Description:** Zyrk is descendedfrom the Jaguar people of the deep Mwene jungles. As such he has a dark, goldentone to his fur and is mottled with randomly shaped, black rings across hisback, outer arms, and outer legs. His chest, stomach and inner arms and legs area much lighter and softer fur, closer to a cream or eggshell color. He hasbright, vibrant blue eyes and the tip of his left ear is split vertically abouthalf way down the length from an old fight that did not end the way he wouldhave hoped. He has well defined, sinuous muscles and is deceptively nimble forhis size, but nowhere near as strong as the majority of his people. His tail islong, about one and a half times the length of his legs and is stark white atthe very tip and lined with concentric black rings down the rest of the length.He has retractable claws in the tips of all of his toes and fingers. His choicein apparel is simple, often borderline poverty-stricken in appearance, althoughit is simply part of his carefully crafted image.
 
-<strong> Personality:</strong> Zyrk tries to becompletely self-serving. He puts on an air of being a rogue, out for no one buthimself and doing whatever he needs to do in order to survive. He will steal,cheat, bribe, bully, coerce, and be generally unpleasant to just about anyone inorder to get what he wants or needs. However, he never lies to anyone, ever, andwill go out of his way to avoid killing anyone who has not shown a completedisregard for his own continued existence. He often leaves a portion of hisspoils where the truly poor/helpless can find them, usually in the form of food,clothing, and the occasional trinket or small value coins, but if he were askedhow he feels about those same people he will go on and on about how he despisesthem for not being willing to get up off their rears and make something of theirown lives. He normally has a charming personality and is quick to smile orlaugh, especially in the middle of a good brawl (he likes to think it isdisconcerting to his opponent).
+**Personality:** Zyrk tries to becompletely self-serving. He puts on an air of being a rogue, out for no one buthimself and doing whatever he needs to do in order to survive. He will steal,cheat, bribe, bully, coerce, and be generally unpleasant to just about anyone inorder to get what he wants or needs. However, he never lies to anyone, ever, andwill go out of his way to avoid killing anyone who has not shown a completedisregard for his own continued existence. He often leaves a portion of hisspoils where the truly poor/helpless can find them, usually in the form of food,clothing, and the occasional trinket or small value coins, but if he were askedhow he feels about those same people he will go on and on about how he despisesthem for not being willing to get up off their rears and make something of theirown lives. He normally has a charming personality and is quick to smile orlaugh, especially in the middle of a good brawl (he likes to think it isdisconcerting to his opponent).
 
-<strong> Equipment:</strong> Zyrk carries very little inthe way of actual gear, trying to keep things as simple as possible. He normallycarries a half dozen throwing daggers of no appreciable quality along with twofighting knives (about 10-12 inches long, curved blades, razor sharp on bothedges), and his Ironwood Bastone (two simple sticks, about 32 inches long and aninch and a half in diameter). He also will carry a length of strong, light ropeor cord when he is out robbing people&rsquo;s homes in the night, just in case heneeds to tie someone up or make a hasty descent down the outside of a structure.
+**Equipment:** Zyrk carries very little inthe way of actual gear, trying to keep things as simple as possible. He normallycarries a half dozen throwing daggers of no appreciable quality along with twofighting knives (about 10-12 inches long, curved blades, razor sharp on bothedges), and his Ironwood Bastone (two simple sticks, about 32 inches long and aninch and a half in diameter). He also will carry a length of strong, light ropeor cord when he is out robbing people&rsquo;s homes in the night, just in case heneeds to tie someone up or make a hasty descent down the outside of a structure.
 
-<strong> History: </strong>Zyrk grew up in the jungles ofMwene where his tribe roamed the eternal twilight hunting and raiding othertribes and settlements. The jungle presented a difficult life at the best oftimes and Zyrk learned at an early age how to defend himself, as well as how totell when he was incapable of doing so. He spent his formative years prowlingthrough the jungle canopy, scouting ahead for the raiding parties, then throwingfirst sharpened sticks, then actual knives at any who tried to escape theirraids. When he came of age (at 15 years old) he decided to take his leave fromthe tribe and seek his fortune in the cities where he dreamed money rained downfrom the heavens. His tribe&rsquo;s final gift to him was his coveted Ironwood Bastone,the ceremonial weapon of his kin. The Ironwood is a rare hardwood that growsscarcely in the jungles and is prized for its strength and weight.
+**History:** Zyrk grew up in the jungles ofMwene where his tribe roamed the eternal twilight hunting and raiding othertribes and settlements. The jungle presented a difficult life at the best oftimes and Zyrk learned at an early age how to defend himself, as well as how totell when he was incapable of doing so. He spent his formative years prowlingthrough the jungle canopy, scouting ahead for the raiding parties, then throwingfirst sharpened sticks, then actual knives at any who tried to escape theirraids. When he came of age (at 15 years old) he decided to take his leave fromthe tribe and seek his fortune in the cities where he dreamed money rained downfrom the heavens. His tribe&rsquo;s final gift to him was his coveted Ironwood Bastone,the ceremonial weapon of his kin. The Ironwood is a rare hardwood that growsscarcely in the jungles and is prized for its strength and weight.
 
 Once on his own he made his way through Mwene and Erim to the Turquoise Sea andeventually to the cities of Arcadia where he quickly learned that a jungle wasstill a jungle regardless of what it was made from. Since then he has made alife for himself, stealing for what he needs to survive and trying to gounnoticed by anyone with any sort of power, because the one time he did getnoticed, things did not turn out the way he would have hoped&hellip;
 
 <hr />
-<strong>The time Zyrk got noticed</strong>
+
+**The time Zyrk got noticed**
 
 It was a cool morning in Arcadiaand Zyrk&rsquo;s fur ruffled as the light sea breeze rolled over him from the bay. Hestretched languidly in the morning sun, taking a moment to survey the streetsfilling with people of all shapes and sizes below his rooftop abode. Turningback toward his roughly constructed rooftop shack, it wasn&rsquo;t much, but there wasno landlord and the rent was cheap, as in non-existent. Leaning inside the shackhe picked up his belt and wrapped it around his waist, settling it on his hipsas he drew the buckle closed. Finally he reached through the door one last timeand removed the shoulder sheath that held his Ironwood bastone and slung it overhis shoulder as he moved toward the ladder that led discretely down to streetlevel in the alley behind the building.
 
@@ -353,4 +336,3 @@ In a flash, the Jewel of Mycensnatched one of the fighting knives from his belt 
 He had never suffered such abeating in his entire life. It had taken him months to get his strength back,and when it was over he was certainly in no shape to be dashing in and rescuingany misguided women. In reality he had been more than lucky to have survived thefirst few nights after the incident. They had left him there. Broken andbleeding in the streets of Arcadia. He had crawled out of the street and takenrefuge in the dark alleys and sewers until he had the strength to make his wayback to his rooftop shack where he spent his days and nights in feverednightmares, imagining the torturous ways in which her soul had been sent to thebeyond.
 
 Zyrk sighed as he sat on the edgeof the roof looking out over the setting sun and the glorious light show itcreated on the calm water of the harbor. His heart ached, and his soul had arend in it that was mirrored in his perfectly bisected ear. He feared he wouldnever again be whole, and he felt certain that he would similarly never againallow himself to fall in love. If this was what it was to be in love, he didn&rsquo;tthink his heart, or his body, could survive the journey
-

@@ -1,6 +1,6 @@
-+++
-title = "Grenade"
-+++
+---
+title: Grenade
+---
 
 title:		Grenade
 desc:		

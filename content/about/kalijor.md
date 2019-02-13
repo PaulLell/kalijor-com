@@ -1,8 +1,8 @@
-+++
-title = "Kalijor"
-date = '2011-08-12 12:11:16 -0600'
-weight = 2
-+++
+---
+date: 2011-08-12 12:11:16 -0600
+title: Kalijor
+weight: 2
+---
 
 ![Riana and Katrina](/images/RianaAndKatrina-246x300.png?classes=a-right)
 

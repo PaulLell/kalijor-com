@@ -1,6 +1,6 @@
-+++
-title = "Ambrai Valkyrie"
-+++
+---
+title: Ambrai Valkyrie
+---
 
 title:		Ambrai Valkyrie
 desc:		

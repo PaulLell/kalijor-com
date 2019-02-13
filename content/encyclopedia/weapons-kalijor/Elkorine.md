@@ -1,6 +1,6 @@
-+++
-title = "Elkorine"
-+++
+---
+title: Elkorine
+---
 
 title:		Elkorine
 desc:		

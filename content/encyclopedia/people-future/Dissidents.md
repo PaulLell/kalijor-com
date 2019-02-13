@@ -1,6 +1,6 @@
-+++
-title = "Dissidents"
-+++
+---
+title: Dissidents
+---
 
 title:		Dissidents
 desc:		

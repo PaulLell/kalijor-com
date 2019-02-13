@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-05-15T21:09:08-06:00
 title: Chapter 3
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1061
-wordpress_url: http://www.kalijor.com/?page_id=1061
-date: '2013-05-15 21:09:08 -0600'
-date_gmt: '2013-05-16 03:09:08 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 The one thing she had learned about her nascent powers was that she had to have a very clear objective in mind when she tried to invoke them. In thinking about it, she supposed that was why, at first, she had to teleport to Kalijor initially, then back to the 'real' world in order to move between two points. While she still had no idea of how these abilities worked or where they were coming from, now she merely had to have a clear picture in her head of where she wanted to be.

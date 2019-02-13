@@ -1,6 +1,6 @@
-+++
-title = "The Neophyte'S Serendipity"
-+++
+---
+title: The Neophyte'S Serendipity
+---
 
 title:		The Neophyte'S Serendipity
 desc:		

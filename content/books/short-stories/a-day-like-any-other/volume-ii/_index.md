@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:28:56-06:00
 title: Volume II
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 116
-wordpress_url: http://www.kalijor.com/?page_id=116
-date: '2011-08-12 17:28:56 -0600'
-date_gmt: '2011-08-12 23:28:56 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 &ldquo;Holy hell!&rdquo; Vin spat as the body of the woman spilled out on the deck of the cargo hold.

@@ -1,6 +1,6 @@
-+++
-title = "Scalarythica"
-+++
+---
+title: Scalarythica
+---
 
 These animals resemble a short, fat alligator with twelve short, fat
 tentacles instead of normal legs. They have a jaw full of short, pointy

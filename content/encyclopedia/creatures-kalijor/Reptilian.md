@@ -1,6 +1,6 @@
-+++
-title = "Reptilian"
-+++
+---
+title: Reptilian
+---
 
 Reptilians are a race of highly evolved reptiles, just as their name
 would suggest. Reptilians are usually thin, but strong, and light in

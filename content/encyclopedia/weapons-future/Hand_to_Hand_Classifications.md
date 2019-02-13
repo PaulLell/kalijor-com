@@ -1,6 +1,6 @@
-+++
-title = "Hand To Hand Classifications"
-+++
+---
+title: Hand To Hand Classifications
+---
 
 title:		Hand To Hand Classifications
 desc:		

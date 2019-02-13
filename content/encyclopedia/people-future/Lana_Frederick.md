@@ -1,6 +1,6 @@
-+++
-title = "Lana Frederick"
-+++
+---
+title: Lana Frederick
+---
 
 title:		Lana Frederick
 desc:		

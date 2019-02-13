@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T15:41:50-06:00
 title: The Second Key of Kalijor
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 60
-wordpress_url: http://www.kalijor.com/?page_id=60
-date: '2011-08-12 15:41:50 -0600'
-date_gmt: '2011-08-12 21:41:50 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <table width="100%" align="left">
@@ -29,7 +11,7 @@ weight: 2
 Betrayed and taken hostage, Katrina has been missing for six months now. Time in which Riana has been scouring the world for her. The first key is in Xavier's hands and the world is in danger if the rest of the keys can't be found. With the singing sensation, Resonance, leaving clues for her, the path Riana treads leads her and a small group of new friends straight to a dragon's doorstep, and into the real secrets unlocked by the five keys. But can she solve the riddle in time?
 
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/keys-of-kalijor/the-second-key-of-kalijor/chapter-1">The sample chapters for The Second Key of Kalijor begin here.</a></td>
+<a title="Chapter 1" href="./chapter-1">The sample chapters for The Second Key of Kalijor begin here.</a></td>
 <td align="center" width="225"><img src="/images/Second_Key_Cover.png" alt="" border="1" />
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>

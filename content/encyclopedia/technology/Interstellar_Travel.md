@@ -1,6 +1,6 @@
-+++
-title = "Interstellar Travel"
-+++
+---
+title: Interstellar Travel
+---
 
 title:		Interstellar Travel
 desc:		

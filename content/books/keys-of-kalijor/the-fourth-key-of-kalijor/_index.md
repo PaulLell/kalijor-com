@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2012-04-09T13:02:33-06:00
 title: The Fourth Key of Kalijor
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 735
-wordpress_url: http://www.kalijor.com/?page_id=735
-date: '2012-04-09 13:02:33 -0600'
-date_gmt: '2012-04-09 19:02:33 -0600'
-categories: []
-tags: []
-comments: []
 weight: 4
 ---
 <table width="100%" align="left">
@@ -34,7 +16,7 @@ Now, Riana must gather her friends and family close as she sets out to discover 
 The stakes are rising as everyone scrambles to find the Fourth Key of Kalijor...
 
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/keys-of-kalijor/the-fourth-key-of-kalijor/chapter-1">The sample chapters for The Fourth Key of Kalijor begin here.</a></td>
+<a title="Chapter 1" href="./chapter-1">The sample chapters for The Fourth Key of Kalijor begin here.</a></td>
 <td align="center" width="225"><img src="http://img2.imagesbn.com/images/168050000/168050532.JPG" alt="" border="1" />
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>

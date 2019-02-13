@@ -1,6 +1,6 @@
-+++
-title = "Great Inland Sea"
-+++
+---
+title: Great Inland Sea
+---
 
 title:		Great Inland Sea
 desc:		

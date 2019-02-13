@@ -1,4 +1,4 @@
-+++
-title = "Creatures of Kalijor"
-weight = 2
-+++
+---
+title: Creatures of Kalijor
+weight: 2
+---

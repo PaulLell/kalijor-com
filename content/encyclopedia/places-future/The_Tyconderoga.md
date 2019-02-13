@@ -1,6 +1,6 @@
-+++
-title = "The Tyconderoga"
-+++
+---
+title: The Tyconderoga
+---
 
 title:		The Tyconderoga
 desc:		

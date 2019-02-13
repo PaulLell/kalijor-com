@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:29:54-06:00
 title: Volume III
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 118
-wordpress_url: http://www.kalijor.com/?page_id=118
-date: '2011-08-12 17:29:54 -0600'
-date_gmt: '2011-08-12 23:29:54 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 In a flash Vincent redirected the ship&rsquo;s auto-pilot toward a friendly berth in the dregs and as the vessel came about to its new heading he jumped out of his seat and dashed toward the aft cargo hold.

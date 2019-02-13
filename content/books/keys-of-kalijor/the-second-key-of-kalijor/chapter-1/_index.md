@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T16:48:02-06:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 86
-wordpress_url: http://www.kalijor.com/?page_id=86
-date: '2011-08-12 16:48:02 -0600'
-date_gmt: '2011-08-12 22:48:02 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 The warm afternoon air streamed through Riana&rsquo;s dark purple hair as she moved swiftly across the Plain of Serenity. Her hair had grown quite a bit in the months that she had been searching. It now fell nearly to her waist in a ragged pony tail, a contrast to the neat arrangement that used to hold her shoulder-length locks. Her long elven ears were perked up, listening for any signs of danger as her violet eyes scanned the horizon with an intense scrutiny. She quickly covered the distance to what she hoped would at last be her final destination.
@@ -139,5 +121,4 @@ She gaped at him, trying to figure out what this man was thinking. &ldquo;You me
 
 Riana shook her head with a quirky grin on her lips and headed off in the indicated direction, her new companion moving up beside her as they made their way toward where the goblin chieftain&rsquo;s hut was rumored to be.
 
-<a title="Chapter 2" href="https://www.kalijor.com/books/keys-of-kalijor/the-second-key-of-kalijor/second-key-chapter-2">On to Chapter 2</a>
-
+[On to Chapter 2](../second-key-chapter-2)

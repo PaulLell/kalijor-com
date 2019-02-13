@@ -1,6 +1,6 @@
-+++
-title = "Asteroid Belt"
-+++
+---
+title: Asteroid Belt
+---
 
 title:		Asteroid Belt
 desc:		

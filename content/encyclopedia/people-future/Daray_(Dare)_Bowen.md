@@ -1,6 +1,6 @@
-+++
-title = "Daray (Dare) Bowen"
-+++
+---
+title: Daray (Dare) Bowen
+---
 
 title:		Daray (Dare) Bowen
 desc:		

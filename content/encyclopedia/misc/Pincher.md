@@ -1,6 +1,6 @@
-+++
-title = "Pincher"
-+++
+---
+title: Pincher
+---
 
 Pinchers are the future equivilent of cat burglers. These individuals
 are skilled in many areas of subterfuge, hacking, breaking and entering,

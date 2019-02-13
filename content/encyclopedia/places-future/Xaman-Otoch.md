@@ -1,6 +1,6 @@
-+++
-title = "Xaman Otoch"
-+++
+---
+title: Xaman Otoch
+---
 
 title:		Xaman Otoch
 desc:		

@@ -1,7 +1,7 @@
-+++
-title = "People of the Future"
-weight = 4
-+++
+---
+title: People of the Future
+weight: 4
+---
 
 title:		Category:People Future
 desc:		

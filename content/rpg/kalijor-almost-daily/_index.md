@@ -1,27 +1,9 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-10-24T10:54:26-06:00
 title: Kalijor (Almost) Daily
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1287
-wordpress_url: http://www.kalijor.com/?page_id=1287
-date: '2013-10-24 10:54:26 -0600'
-date_gmt: '2013-10-24 16:54:26 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
-<a href="https://www.kalijor.com/wp-content/uploads/edd/2013/07/RPG-eCover1.jpg"><img class="alignleft size-medium wp-image-1123" style="margin-top: 5px; margin-bottom: 5px;" alt="RPG eCover" src="https://www.kalijor.com/wp-content/uploads/edd/2013/07/RPG-eCover1-229x300.jpg" width="229" height="300" /></a>I will be playing a bit with this page until I get it settled in, but the intention is to post regular story ideas for the Kalijor RPG. I hope to give players quick access to story ideas, NPCs, and other information that will inspire, or completely facilitate campaigns and adventure ideas.
+<img class="alignleft size-medium" style="margin-top: 5px; margin-bottom: 5px;" alt="RPG eCover" src="/images/RPG-eCover1.jpg" width="229" height="300" /></a>I will be playing a bit with this page until I get it settled in, but the intention is to post regular story ideas for the Kalijor RPG. I hope to give players quick access to story ideas, NPCs, and other information that will inspire, or completely facilitate campaigns and adventure ideas.
 
 Presentation of these ideas will be in a consistent style with a quick line or two to setup the situation, a description of the meat of the plot that will get characters engaged, and then a plot twist or turn that serves as the 'big reveal' for the adventure. Any relevant NPCs or other world or equipment data will be provided below those three sections and the setting and any other pertinent technical information will be at the very top.
 

@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:27:51-06:00
 title: Volume I
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 113
-wordpress_url: http://www.kalijor.com/?page_id=113
-date: '2011-08-12 17:27:51 -0600'
-date_gmt: '2011-08-12 23:27:51 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 The ship stood on end as he yanked back on the stick. To the outside observer it looked as though the sleek craft lifted it&rsquo;s nose up into the air, mere feet above the landing strip, and then as he slammed the throttle forward a column of fire erupted from the wing-mounted engine nacelles and catapulted the craft straight up and out of sight so quickly that witnesses would have said it happened in an instant.

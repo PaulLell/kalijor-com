@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T16:51:43-06:00
 title: Chapter 3
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 90
-wordpress_url: http://www.kalijor.com/?page_id=90
-date: '2011-08-12 16:51:43 -0600'
-date_gmt: '2011-08-12 22:51:43 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 &ldquo;Well, if you say I did, then I must have. But, I thought it was impossible.&rdquo; Jumah said with a shining smile.
@@ -167,5 +149,4 @@ She turned her violet eyes back toward him and gave him a look that instantly wi
 
 Jumah nodded solemnly, taking this new information in stride, he did not appear in any way surprised by what she had said. &ldquo;How long has she been stuck in the system?&rdquo;
 
-<a title="The Second Key of Kalijor" href="https://www.kalijor.com/books/keys-of-kalijor/the-second-key-of-kalijor">Back to The Second Key of Kalijor</a>
-
+[Back to The Second Key of Kalijor](../)

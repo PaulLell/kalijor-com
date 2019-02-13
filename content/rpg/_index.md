@@ -1,25 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-06-20T11:08:37-06:00
 title: RPG
-permalink: /rpg/
-main_nav: true
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1092
-wordpress_url: http://www.kalijor.com/?page_id=1092
-date: '2013-06-20 11:08:37 -0600'
-date_gmt: '2013-06-20 17:08:37 -0600'
-categories: []
-tags: []
-comments: []
 weight: 4
 ---
 The Kalijor Role Playing Game system is built on an entirely new game engine and is designed to help you and your players experience the world in your own ideal way.
@@ -28,11 +9,11 @@ This new game engine is unique in that it allowed us to create multiple versions
 
 This system allows parents to play a great new Role Playing Game with their kids, but with a pacing that is more akin to the video games that they have come to recognize as 'the way things are today'. But at the same time, it can teach them critical life skills such as thinking, reasoning, working together with teams to solve problems, and more. And when they're ready, they can take their characters with them to the 'big kids' table.
 
-<a title="Kalijor (Almost) Daily" href="https://www.kalijor.com/rpg/kalijor-almost-daily">Kalijor (Almost) Daily</a>: Your source for quick adventure ideas, NPCs, and world information.
+<a title="Kalijor (Almost) Daily" href="./kalijor-almost-daily">Kalijor (Almost) Daily</a>: Your source for quick adventure ideas, NPCs, and world information.
 
-<a href="https://www.kalijor.com/rpg/the-kalijor-role-playing-game">The Kalijor Role Playing Game</a>
+<a href="./the-kalijor-role-playing-game">The Kalijor Role Playing Game</a>
 
-<a href="https://www.kalijor.com/rpg/the-kalijor-kids-role-playing-game">The Kalijor: Kids Role Playing Game</a>
+<a href="./the-kalijor-kids-role-playing-game">The Kalijor: Kids Role Playing Game</a>
 
 Features:
 
@@ -44,5 +25,4 @@ Features:
 <li>All supplements and sourcebooks will be compatible with all versions of the game, no need to buy separate 'expansions' for kids and adults.</li>
 <li>All characters from all versions of the game are fully forward and reverse compatible.</li>
 </ul>
-<a href="https://www.kalijor.com/wp-content/uploads/2013/03/XantheRee-RPG.jpg"><img class="alignleft size-medium wp-image-1023" alt="XantheRee RPG" src="https://www.kalijor.com/wp-content/uploads/2013/03/XantheRee-RPG-300x214.jpg" width="300" height="214" /></a>
-
+<img class="alignleft size-medium" alt="XantheRee RPG" src="/images/XantheRee-RPG.jpg" width="300" height="214" /></a>

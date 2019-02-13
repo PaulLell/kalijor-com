@@ -1,6 +1,6 @@
-+++
-title = "Talanor"
-+++
+---
+title: Talanor
+---
 
 title:		Talanor
 desc:		

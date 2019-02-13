@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2015-04-07T10:51:43-06:00
 title: It Never Raynes - Chapter 2
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1404
-wordpress_url: http://www.kalijor.com/?page_id=1404
-date: '2015-04-07 10:51:43 -0600'
-date_gmt: '2015-04-07 16:51:43 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <p style="text-align: center;">-2-
@@ -153,4 +135,3 @@ Sighing happily as the conforming material of the acceleration seat gripped her 
 An unfamiliar ship was falling in behind her, its sensor image fading out under the effects of some kind of cloak.
 
 -Miss Torres,- Jarvis announced, highlighting the spot where the unknown vessel had disappeared in her sensors. -I think we may have an issue.-
-

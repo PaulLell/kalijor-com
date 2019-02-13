@@ -1,6 +1,6 @@
-+++
-title = "The Conglomerate"
-+++
+---
+title: The Conglomerate
+---
 
 A corporate government is an interesting prospect at best. The government of the future is formed by an elaborate interweaving of the top-level management from various corporations with extreme, and far-reaching influence. In short, the more powerful a particular corporation is, the more influential they are in the political landscape of humanity.
 

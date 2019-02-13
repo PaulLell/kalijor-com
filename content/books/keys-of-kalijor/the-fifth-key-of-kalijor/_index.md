@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-04-26T12:57:50-06:00
 title: The Fifth Key of Kalijor
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1035
-wordpress_url: http://www.kalijor.com/?page_id=1035
-date: '2013-04-26 12:57:50 -0600'
-date_gmt: '2013-04-26 18:57:50 -0600'
-categories: []
-tags: []
-comments: []
 weight: 5
 ---
 <table width="100%" align="left">
@@ -33,9 +15,9 @@ In Kalijor, efforts to uncover the remaining artifacts will find resistance and 
 Can they see their trials through to completion and keep Riana from succumbing to the power of the artifacts?
 
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/keys-of-kalijor/the-fifth-key-of-kalijor/chapter-1">The sample chapters for The Fifth Key of Kalijor begin here.</a></td>
+<a title="Chapter 1" href="./chapter-1">The sample chapters for The Fifth Key of Kalijor begin here.</a></td>
 <td align="center" width="225">
-<p style="text-align: center;"><a href="https://www.kalijor.com/wp-content/uploads/2013/04/91ZCp8x31nL__SL1500_.jpg"><img class="aligncenter  wp-image-1036" alt="5th Key eCover" src="https://www.kalijor.com/wp-content/uploads/2013/04/91ZCp8x31nL__SL1500_-691x1024.jpg" width="250" height="370" /></a>
+<p style="text-align: center;"><img class="aligncenter" alt="5th Key eCover" src="/images/91ZCp8x31nL__SL1500_.jpg" width="250" height="370" /></a>
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;">

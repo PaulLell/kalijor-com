@@ -1,6 +1,6 @@
-+++
-title = "Loch Moore"
-+++
+---
+title: Loch Moore
+---
 
 title:		Loch Moore
 desc:		

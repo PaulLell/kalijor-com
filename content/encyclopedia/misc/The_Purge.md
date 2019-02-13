@@ -1,6 +1,6 @@
-+++
-title = "The Purge"
-+++
+---
+title: The Purge
+---
 
 As cybernetic and genetic technology advanced, the human race began a
 slow but stead divergence into multiple 'post-human' groups. The pace of

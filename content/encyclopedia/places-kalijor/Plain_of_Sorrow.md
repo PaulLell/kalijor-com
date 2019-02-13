@@ -1,6 +1,6 @@
-+++
-title = "Plain Of Sorrow"
-+++
+---
+title: Plain Of Sorrow
+---
 
 title:		Plain Of Sorrow
 desc:		

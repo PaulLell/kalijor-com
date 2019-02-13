@@ -1,6 +1,6 @@
-+++
-title = "Tech Line"
-+++
+---
+title: Tech Line
+---
 
 title:		Tech Line
 desc:		

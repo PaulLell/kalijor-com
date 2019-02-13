@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2015-04-07T10:35:29-06:00
 title: It Never Raynes - Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1398
-wordpress_url: http://www.kalijor.com/?page_id=1398
-date: '2015-04-07 10:35:29 -0600'
-date_gmt: '2015-04-07 16:35:29 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 <p style="text-align: center;">-1-
@@ -99,5 +81,4 @@ Shaking off the butterflies in her stomach, she turned away from the common room
 
 &nbsp;
 
-<a href="https://www.kalijor.com/it-never-raynes-chapter-2">Chapter 2</a>
-
+[Chapter 2](../it-never-raynes-chapter-2)

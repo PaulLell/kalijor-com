@@ -1,6 +1,6 @@
-+++
-title = "Emil Frederick, Phd"
-+++
+---
+title: Emil Frederick, Phd
+---
 
 title:		Emil Frederick, Phd
 desc:		

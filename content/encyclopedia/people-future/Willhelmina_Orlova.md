@@ -1,6 +1,6 @@
-+++
-title = "Willhelmina Orlova"
-+++
+---
+title: Willhelmina Orlova
+---
 
 title:		Willhelmina Orlova
 desc:		

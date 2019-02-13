@@ -1,8 +1,8 @@
-+++
-title = "Chapter 3"
-date = '2012-02-27 18:54:28 -0700'
-weight = 3
-+++
+---
+date: 2012-02-27 18:54:28 -0700
+title: Chapter 3
+weight: 3
+---
 It felt strange to be almost completely unarmed. Riana wandered through one of the massive promenades in Xaman-Otoch, the North Pole section of the Earth Ring Station, as she made her way toward Vincent&rsquo;s apartment. Willhelmina had decided to go back to Tranquility on the moon rather than come with Riana. She wanted to see if she could reestablish some of her childhood friendships since Xavier had been kind enough to grant them both a week&rsquo;s leave from duties. Riana had offered to fly her sister to Tranquility but Willhelmina had insisted that she use public transportation so that Riana could go straight to Earth Station. She had told her to maximize her time off since she had yet to really explore the world on her own.
 
 She had stopped more than twenty times now in various shops and stores along the way from the Kestrel&rsquo;s hangar on the ring. It seemed that the pay for being a courier for Solidarity Online was definitely something out of the ordinary.
@@ -70,5 +70,4 @@ He made his way back to her as he spoke, wrapping his arms around her waist and 
 
 Riana&rsquo;s eyes glinted as he drew closer to her. She felt a strange, tingling rush run through her body as his breath washed across her lips. &ldquo;And who said I want to room with a gentleman?&rdquo;
 
-<a title="The Third Key of Kalijor" href="https://www.kalijor.com/books/keys-of-kalijor/the-third-key-of-kalijor">Back to The Third Key of Kalijor</a>
-
+[Back to The Third Key of Kalijor](../)

@@ -1,6 +1,6 @@
-+++
-title = "Anja Reyals"
-+++
+---
+title: Anja Reyals
+---
 
 # Vital Statistics
 

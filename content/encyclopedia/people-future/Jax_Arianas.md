@@ -1,6 +1,6 @@
-+++
-title = "Jax Arianas"
-+++
+---
+title: Jax Arianas
+---
 
 title:		Jax Arianas
 desc:		

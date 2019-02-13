@@ -1,6 +1,6 @@
-+++
-title = "Kaden Mcginley"
-+++
+---
+title: Kaden Mcginley
+---
 
 title:		Kaden Mcginley
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Arc Ships"
-+++
+---
+title: Arc Ships
+---
 
 title:		Arc Ships
 desc:		

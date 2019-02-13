@@ -1,7 +1,7 @@
-+++
-title = "Vehicles of the Future"
-weight = 9
-+++
+---
+title: Vehicles of the Future
+weight: 9
+---
 
 title:		Category:Vehicles
 desc:		

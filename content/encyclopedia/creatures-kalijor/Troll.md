@@ -1,6 +1,6 @@
-+++
-title = "Troll"
-+++
+---
+title: Troll
+---
 
 Trolls are tall, skinny, physically powerful, and normally assumed to be
 not terribly bright, although this often proves to be a fatal mistake to

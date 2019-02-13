@@ -1,6 +1,6 @@
-+++
-title = "Plain Of Serenity"
-+++
+---
+title: Plain Of Serenity
+---
 
 title:		Plain Of Serenity
 desc:		

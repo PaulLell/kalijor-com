@@ -1,6 +1,6 @@
-+++
-title = "Neo Tokyo"
-+++
+---
+title: Neo Tokyo
+---
 
 title:		Neo Tokyo
 desc:		

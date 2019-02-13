@@ -62,15 +62,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikicommon.css/</guid>
-      <description>title: Mediawiki:Common desc:
-date: 2019/01/25 version: 1.0.0 template:
-nav: Mediawiki:Common percent: 100 authors:
-/* Hide Category Links at bottom of pages */ .catlinks { display: none; }
-/* body {
- background: #660099 url(/images/Kalijor-Background.jpg) center center no-repeat;
-}
- /  /* CSS placed here will be applied to all skins */ /* This is the CSS for all skins (for all users) on MediaWiki.org.
-SECTIONS: 1. Indication of namespaces 2.</description>
+      <description></description>
     </item>
     
     <item>
@@ -79,11 +71,7 @@ SECTIONS: 1. Indication of namespaces 2.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikisidebar/</guid>
-      <description> title: Mediawiki:Sidebar desc:
-date: 2019/01/25 version: 1.0.0 template:
-nav: Mediawiki:Sidebar percent: 100 authors:
-- categorytree-portlet - navigation - mainpage|mainpage-description - portal-url|portal - currentevents-url|currentevents - http://www.kalijor.com|Kalijor.com - SEARCH - TOOLBOX&amp;mdash; title: MediaWiki:Sidebar
-permalink: /MediaWiki:Sidebar/ </description>
+      <description></description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
-+++
-title = "Xeracra"
-+++
+---
+title: Xeracra
+---
 
 Xeracra are large cat-like creatures with thinly placed, thick-bristled
 hair that is a sickly grey color. They have six powerful, stocky limbs

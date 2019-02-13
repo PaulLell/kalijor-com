@@ -1,8 +1,8 @@
-+++
-title = "The Author"
-date = '2011-08-12 12:10:24 -0600'
-weight = 1
-+++
+---
+date: 2011-08-12 12:10:24 -0600
+title: The Author
+weight: 1
+---
 
 ![Paul Lell - GenCon Indy 2011](/images/paul-gencon-2011.png?classes=a-right)
 

@@ -1,6 +1,6 @@
-+++
-title = "The Riotous Good Time"
-+++
+---
+title: The Riotous Good Time
+---
 
 title:		The Riotous Good Time
 desc:		

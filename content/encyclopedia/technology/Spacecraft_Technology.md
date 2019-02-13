@@ -1,6 +1,6 @@
-+++
-title = "Spacecraft Technology"
-+++
+---
+title: Spacecraft Technology
+---
 
 title:		Spacecraft Technology
 desc:		

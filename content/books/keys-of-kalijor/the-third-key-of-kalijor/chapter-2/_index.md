@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2012-02-27T18:45:04-07:00
 title: Chapter 2
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 676
-wordpress_url: http://www.kalijor.com/?page_id=676
-date: '2012-02-27 18:45:04 -0700'
-date_gmt: '2012-02-28 01:45:04 -0700'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 The Kestrel hurtled away from the small space station at maximum throttle. The ion drives screamed in protest as Riana leaned on the throttle, trying to coax more out of the straining engines than they seemed wiling to give.
@@ -89,5 +71,4 @@ Riana leaned over, peering past Willhelmina&rsquo;s shoulder at the myriad of pa
 
 &ldquo;Well if it isn&rsquo;t, then it should be.&rdquo; Willhelmina grinned even wider as she returned to her meal.
 
-<a title="Chapter 3" href="https://www.kalijor.com/books/keys-of-kalijor/the-third-key-of-kalijor/chapter-3">On to Chapter 3</a>
-
+[On to Chapter 3](../chapter-3)

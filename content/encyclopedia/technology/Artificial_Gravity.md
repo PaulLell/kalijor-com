@@ -1,6 +1,6 @@
-+++
-title = "Artificial Gravity"
-+++
+---
+title: Artificial Gravity
+---
 
 title:		Artificial Gravity
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Orc"
-+++
+---
+title: Orc
+---
 
 Orcs are tribal creatures that typically shun more civilized life and
 live in small to medium sized groups in the wilds of Kalijor. Their

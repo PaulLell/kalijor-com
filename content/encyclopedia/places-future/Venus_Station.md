@@ -1,6 +1,6 @@
-+++
-title = "Venus Station"
-+++
+---
+title: Venus Station
+---
 
 title:		Venus Station
 desc:		

@@ -1,25 +1,7 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:43:40-06:00
 title: Trinkets and Trash
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 130
-wordpress_url: http://www.kalijor.com/?page_id=130
-date: '2011-08-12 17:43:40 -0600'
-date_gmt: '2011-08-12 23:43:40 -0600'
-categories: []
-tags: []
-comments: []
-weight: 5
+weight: 6
 ---
 The beam hit me like a lance, driving through my body and tearing up my insides. On the good side it seemed to be cauterizing the wound it created so there was little chance of me bleeding to death. God, how did I get involved in this mess? He came at me again, pointing his fingers at me like I used to do with my kid brother when I was young, index finger out, thumb up like the hammer of a pistol. Only this guy had a lot more punch behind the gesture than me shouting &lsquo;bang&rsquo;.&nbsp; He grinned evilly as the tip of his finger began to glow bright yellow and I managed to roll to the side just as the lance of laser light bore through the wall I was leaning against.
 
@@ -54,4 +36,3 @@ Enough of that for now. Dropping my shirt back into place I scanned around the r
 &ldquo;Just cause I never used my powers with anything but my hands before don&rsquo;t mean I can&rsquo;t.&rdquo; He sneered. &ldquo;Always good to have a back-up plan.&rdquo;
 
 All of a sudden it was clear to me. In all the intel I had pulled on this guy it always said he had one useless, scarred eye. But none of it ever mentioned how it got that way. I looked on in horror as the scarred orb began to glow brightly, and I knew it was over. I couldn&rsquo;t focus fast enough, much though I tried. This time, time slowed down in a much different manner than when I caused it. This time it was the slowed down time of a dying person who&rsquo;s life was flashing before their eyes. A condemned man on their way to the chair after their last meal. The beam cut through my skull like a hot knife through butter. I saw him move the eye this way and that, carving up my brain like one might scramble an egg. It all happened so fast that there wasn&rsquo;t even time to feel it going on. An instant later I was sightless and falling to the floor in a heap. My body stopped feeling and my mind closed up shop and shut down. All this over a damn teddy bear&hellip;
-

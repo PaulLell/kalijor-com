@@ -1,6 +1,6 @@
-+++
-title = "The Astraeus Accord"
-+++
+---
+title: The Astraeus Accord
+---
 
 # Technical Information
 

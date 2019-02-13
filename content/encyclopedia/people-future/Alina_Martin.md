@@ -1,6 +1,6 @@
-+++
-title = "Alina Martin"
-+++
+---
+title: Alina Martin
+---
 
 # Vital Statistics
 

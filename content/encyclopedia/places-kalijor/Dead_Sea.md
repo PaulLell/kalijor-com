@@ -1,6 +1,6 @@
-+++
-title = "Dead Sea"
-+++
+---
+title: Dead Sea
+---
 
 title:		Dead Sea
 desc:		

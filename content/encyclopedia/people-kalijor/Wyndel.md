@@ -1,6 +1,6 @@
-+++
-title = "Wyndel"
-+++
+---
+title: Wyndel
+---
 
 title:		Wyndel
 desc:		

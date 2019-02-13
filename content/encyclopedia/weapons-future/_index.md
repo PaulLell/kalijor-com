@@ -1,7 +1,7 @@
-+++
-title = "Weapons of the Future"
-weight = 10
-+++
+---
+title: Weapons of the Future
+weight: 10
+---
 
 title:		Category:Weapons Future
 desc:		

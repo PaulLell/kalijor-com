@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2012-02-27T18:35:56-07:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 670
-wordpress_url: http://www.kalijor.com/?page_id=670
-date: '2012-02-27 18:35:56 -0700'
-date_gmt: '2012-02-28 01:35:56 -0700'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 A hail of bullets slipped past Riana&rsquo;s lithe form as she dove behind the metallic cargo crate, rolling into a crouching position with her bull-pup machine gun held at the ready and her back to the crate. Glancing at the translucent casing of the magazine on top of her weapon, the computers in her brain told her she had twenty one rounds left to expend.
@@ -85,5 +67,4 @@ Then, she dashed for the door and slid calmly out into the adjoining hallway. Sh
 She didn&rsquo;t look much like the normal employees in the area, but she knew she stood a better chance of moving unhindered if she didn&rsquo;t appear to be bristling with weaponry so she tugged the duster closed and moved off into the corridor. As she rounded the fourth corner between the storage room and the airlock where the Kestrel<br />
 was docked, she glanced down at her wrist in time to see the counter reach zero. She braced herself as a massive explosion rocked the entire station, before dashing, full speed, toward the airlock.
 
-<a title="Chapter 2" href="https://www.kalijor.com/books/keys-of-kalijor/the-third-key-of-kalijor/chapter-2">On to Chapter 2</a>
-
+[On to Chapter 2](../chapter-2)

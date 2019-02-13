@@ -1,6 +1,6 @@
-+++
-title = "Mars"
-+++
+---
+title: Mars
+---
 
 title:		Mars
 desc:		

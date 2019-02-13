@@ -1,6 +1,6 @@
 ---
+date: 2018-04-27 21:38:20 -0600
 title: Quantum States - Chapter 1
-date: '2018-04-27 21:38:20 -0600'
 weight: 1
 ---
 <span class="Apple-converted-space">&nbsp; </span>&ldquo;There she is! Get her!&rdquo; the leader of the private army belonging to one Edward Bernstein shouted.<span class="Apple-converted-space">&nbsp;</span>
@@ -169,5 +169,4 @@ Rolling her eyes, Bennu sighed and motioned toward the dance. &ldquo;Let&rsquo;s
 
 &nbsp;
 
-<a href="https://www.kalijor.com/books/quantum-states/quantum-states-chapter-2">Chapter 2</a>
-
+[Chapter 2](../quantum-states-chapter-2)

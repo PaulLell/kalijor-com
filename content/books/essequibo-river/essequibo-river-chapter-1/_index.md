@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2016-09-25T12:03:24-06:00
 title: Essequibo River - Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1419
-wordpress_url: http://www.kalijor.com/?page_id=1419
-date: '2016-09-25 12:03:24 -0600'
-date_gmt: '2016-09-25 18:03:24 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 <p style="text-align: center;"><b>-1-</b>
@@ -255,5 +237,4 @@ He didn't know if the shot hit him or not. He didn't feel it, but he wasn't sure
 
 &nbsp;
 
-<a href="https://www.kalijor.com/essequibo-river-chapter-2">Chapter 2</a>
-
+[Chapter 2](../essequibo-river-chapter-2)

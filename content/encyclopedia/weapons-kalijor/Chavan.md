@@ -1,6 +1,6 @@
-+++
-title = "Chavan"
-+++
+---
+title: Chavan
+---
 
 title:		Chavan
 desc:		

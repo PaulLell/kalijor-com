@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2012-04-09T13:39:13-06:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 747
-wordpress_url: http://www.kalijor.com/?page_id=747
-date: '2012-04-09 13:39:13 -0600'
-date_gmt: '2012-04-09 19:39:13 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 Xavier paced across the office, hands behind his back, and shoes clicking against the transparent floor through which the rest of the Tyconderoga space station could be seen spreading out beneath the rather peculiar, vertigo-inducing office. His dark hair was pulled into a short tail at the back of his skull, and his steel-gray eyes remained fixed upon the office&rsquo;s other occupants as he moved from his immense, transparent desk, to the black, leather, over-stuffed chairs where the target of his current tirade sat, quietly fuming.
@@ -155,5 +137,4 @@ She sighed again as she shouldered her little duffle and waved her way out of he
 
 Something was about to give, and it wasn&rsquo;t going to be pretty when it did&hellip;
 
-<a title="The Fourth Key of Kalijor" href="https://www.kalijor.com/books/keys-of-kalijor/the-fourth-key-of-kalijor">Back to The Fourth Key of Kalijor</a>
-
+[Back to The Fourth Key of Kalijor](../)

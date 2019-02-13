@@ -1,6 +1,6 @@
-+++
-title = "Solidarity Online"
-+++
+---
+title: Solidarity Online
+---
 
 The company responsible for the creation, maintenance and operation of the Kalijor fantasy MMO. Despite Kalijor's significance in the corporate setting, Solidarity Online is \~not\~ a member of [The Conglomerate](../the_conglomerate). Although it remains uncertain if this fact is due to the Conglomerate's decision, or if it is Solidarity Onine's desire to remain unaffiliated. Solidarity Online operates dozens of different MMO's all of which are very successful and cover a myriad of genre, but Kalijor is by far their most well known and successful game world.
 

@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-12-09 10:20:05 -0700
 title: Kalijor RPG Core Book Errata
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1311
-wordpress_url: http://www.kalijor.com/?page_id=1311
-date: '2013-12-09 10:20:05 -0700'
-date_gmt: '2013-12-09 17:20:05 -0700'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 Changes, adjustments, and missed material from the Kalijor RPG Core Book.

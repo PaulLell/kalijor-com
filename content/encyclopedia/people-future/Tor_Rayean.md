@@ -1,6 +1,6 @@
-+++
-title = "Tor Rayean"
-+++
+---
+title: Tor Rayean
+---
 
 title:		Tor Rayean
 desc:		

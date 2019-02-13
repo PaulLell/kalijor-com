@@ -1,6 +1,6 @@
-+++
-title = "Earth"
-+++
+---
+title: Earth
+---
 
 title:		Earth
 desc:		

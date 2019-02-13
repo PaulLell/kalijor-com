@@ -1,6 +1,6 @@
-+++
-title = "The End"
-+++
+---
+title: The End
+---
 
 title:		The End
 desc:		

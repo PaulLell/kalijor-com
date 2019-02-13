@@ -1,6 +1,6 @@
-+++
-title = "Vargrus Valkyrie"
-+++
+---
+title: Vargrus Valkyrie
+---
 
 title:		Vargrus Valkyrie
 desc:		

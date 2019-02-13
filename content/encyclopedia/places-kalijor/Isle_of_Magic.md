@@ -1,6 +1,6 @@
-+++
-title = "Isle Of Magic"
-+++
+---
+title: Isle Of Magic
+---
 
 title:		Isle Of Magic
 desc:		

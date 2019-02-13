@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-21T08:55:26-06:00
 title: Jumah's World
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 520
-wordpress_url: http://www.kalijor.com/?page_id=520
-date: '2011-08-21 08:55:26 -0600'
-date_gmt: '2011-08-21 14:55:26 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <table align="left" width="100%">

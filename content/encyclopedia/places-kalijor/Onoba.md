@@ -1,6 +1,6 @@
-+++
-title = "Onoba"
-+++
+---
+title: Onoba
+---
 
 title:		Onoba
 desc:		

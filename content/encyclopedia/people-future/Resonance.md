@@ -1,6 +1,6 @@
-+++
-title = "Resonance"
-+++
+---
+title: Resonance
+---
 
 title:		Resonance
 desc:		

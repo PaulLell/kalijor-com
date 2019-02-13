@@ -1,8 +1,8 @@
-+++
-title = "The Third Key of Kalijor"
-date = '2011-08-12 15:42:12 -0600'
-weight = 3
-+++
+---
+date: 2011-08-12 15:42:12 -0600
+title: The Third Key of Kalijor
+weight: 3
+---
 <table width="100%" align="left">
 <tbody>
 <tr>
@@ -11,7 +11,7 @@ weight = 3
 Within the virtual world of Kalijor, a small group of adventurers, pursued by Malice and his band of mercenaries, carry the third key of Kalijor. Riana and Katrina race to catch up, Jumah and Exodus in tow. What they find leaves everyone grasping for answers. In the real world, the search for Gregory Shantal continues in earnest. Certain that he is connected with the keys of Kalijor, Riana refuses to let him be. She will stop at nothing to prove that he is working with, or perhaps is, Malice. Further complicating things, she suspects that Xavier may be pulling everyone's strings from on high, but to what end? Beyond a shadow of a doubt, there is much more to Kalijor than just a game and whoever uncovers the secret first will be able to guide the course of the future for generations to come. The path ahead is unclear, the stakes are higher than ever, and everyone is playing for keeps!
 
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/books/keys-of-kalijor/the-third-key-of-kalijor/chapter-1">The sample chapters for The Third Key of Kalijor begin here.</a></td>
+<a title="Chapter 1" href="./chapter-1">The sample chapters for The Third Key of Kalijor begin here.</a></td>
 <td align="center" width="225"><img src="/images/Third_Key_Cover.png" alt="" border="1" />
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>

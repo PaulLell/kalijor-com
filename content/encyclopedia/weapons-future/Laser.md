@@ -1,6 +1,6 @@
-+++
-title = "Laser"
-+++
+---
+title: Laser
+---
 
 title:		Laser
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Wayne Nelson"
-+++
+---
+title: Wayne Nelson
+---
 
 title:		Wayne Nelson
 desc:		

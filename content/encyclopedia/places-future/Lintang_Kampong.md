@@ -1,6 +1,6 @@
-+++
-title = "Lintang Kampong"
-+++
+---
+title: Lintang Kampong
+---
 
 title:		Lintang Kampong
 desc:		

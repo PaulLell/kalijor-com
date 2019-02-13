@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T16:27:44-06:00
 title: Chapter 1
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 72
-wordpress_url: http://www.kalijor.com/?page_id=72
-date: '2011-08-12 16:27:44 -0600'
-date_gmt: '2011-08-12 22:27:44 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 'It was a dark and stormy night.'
@@ -189,5 +171,4 @@ Riana sighed heavily, relief flowing through her body. If Katrina could accept i
 
 "Something... rather more daring than usual I think..." Riana said as a mischievous grin formed on her lips.
 
-<a title="Chapter 2" href="https://www.kalijor.com/books/keys-of-kalijor/the-first-key-of-kalijor/first-key-chapter-2">On to Chapter 2</a>
-
+[On to Chapter 2](../first-key-chapter-2)

@@ -1,6 +1,6 @@
-+++
-title = "Dinendal"
-+++
+---
+title: Dinendal
+---
 
 title:		Dinendal
 desc:		

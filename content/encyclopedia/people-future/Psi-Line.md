@@ -1,6 +1,6 @@
-+++
-title = "Psi Line"
-+++
+---
+title: Psi Line
+---
 
 title:		Psi Line
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Weapon Technology"
-+++
+---
+title: Weapon Technology
+---
 
 title:		Weapon Technology
 desc:		

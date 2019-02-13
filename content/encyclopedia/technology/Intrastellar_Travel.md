@@ -1,6 +1,6 @@
-+++
-title = "ntrastellar Travel"
-+++
+---
+title: ntrastellar Travel
+---
 
 title:		Intrastellar Travel
 desc:		

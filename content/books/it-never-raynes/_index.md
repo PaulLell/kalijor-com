@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2015-04-07T10:27:53-06:00
 title: It Never Raynes
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1395
-wordpress_url: http://www.kalijor.com/?page_id=1395
-date: '2015-04-07 10:27:53 -0600'
-date_gmt: '2015-04-07 16:27:53 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 <table width="100%" align="left">
@@ -30,9 +12,9 @@ weight: 3
 <div></div>
 <div>When her first solo run lands her in the middle of a genetically-engineered psychic's plans to destroy all life on the newly re-opened Earth, she finds herself dodging the corporate thugs sent to clean up the mess and looking for answers. Can she track down the man responsible and stop his plot to kill billions of people?</div>
 <h4>Sample Chapters</h4>
-<a title="Chapter 1" href="https://www.kalijor.com/it-never-raynes-chapter-1">The sample chapters for It Never Raynes begin here.</a></td>
+<a title="Chapter 1" href="./it-never-raynes-chapter-1">The sample chapters for It Never Raynes begin here.</a></td>
 <td align="center" width="225">
-<p style="text-align: center;"><a href="https://www.kalijor.com/wp-content/uploads/2015/04/INR-eBook-Cover.png"><img class="alignleft size-medium wp-image-1396" src="https://www.kalijor.com/wp-content/uploads/2015/04/INR-eBook-Cover-198x300.png" alt="INR eBook Cover" width="198" height="300" /></a>
+<p style="text-align: center;"><img class="alignleft size-medium" src="/images/INR-eBook-Cover.png" alt="INR eBook Cover" width="198" height="300" /></a>
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;"><a href="http://www.lulu.com/spotlight/paullell" target="_blank"><img src="/images/Kalijor_Press.png" alt="Buy From Us" border="0" /></a> <a href="http://www.amazon.com/Never-Raynes-Paul-Lell-ebook/dp/B00X0VSUGW/ref=sr_1_2?ie=UTF8&amp;qid=1430702853&amp;sr=8-2&amp;keywords=it+never+raynes" target="_blank"><img src="/images/ShopAmazon.png" alt="Buy From Amazon" border="0" /></a></div>

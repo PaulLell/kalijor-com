@@ -1,6 +1,6 @@
-+++
-title = "Forest Of Brume"
-+++
+---
+title: Forest Of Brume
+---
 
 title:		Forest Of Brume
 desc:		

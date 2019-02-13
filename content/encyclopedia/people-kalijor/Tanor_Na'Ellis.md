@@ -1,6 +1,6 @@
-+++
-title = "Tanor Na'Ellis"
-+++
+---
+title: Tanor Na'Ellis
+---
 
 title:		Tanor Na'Ellis
 desc:		

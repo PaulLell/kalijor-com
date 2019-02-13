@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-02-17T20:44:48-07:00
 title: The Kalijor Role Playing Game
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1008
-wordpress_url: http://www.kalijor.com/?page_id=1008
-date: '2013-02-17 20:44:48 -0700'
-date_gmt: '2013-02-18 03:44:48 -0700'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 &nbsp;
@@ -86,7 +68,7 @@ In Kalijor:
 <li>Martial Artist</li>
 </ul>
 </td>
-<td align="center" width="225"><img alt="RPG eCover" src="https://www.kalijor.com/wp-content/uploads/edd/2013/07/RPG-eCover.jpg" width="233" height="303" />
+<td align="center" width="225"><img alt="RPG eCover" src="/images/RPG-eCover.jpg" width="233" height="303" />
 
 <div><strong><em>Buy This From&hellip;</em></strong></div>
 <div style="padding-bottom: 6px;"><a href="http://www.lulu.com/shop/paul-lell/kalijor-rpg/paperback/product-21113906.html"><img alt="Buy From Us" src="/images/Kalijor_Press.png" border="0" /></a><br />

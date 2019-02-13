@@ -1,6 +1,6 @@
-+++
-title = "The Blitz"
-+++
+---
+title: The Blitz
+---
 
 Early in the year 2800, a series of gang wars broke out in Neo-Tokyo
 shortly after the Conglomerate withdrew from the city to consolidate

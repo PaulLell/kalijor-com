@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:16:51-06:00
 title: Be Careful What You Wish For
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 103
-wordpress_url: http://www.kalijor.com/?page_id=103
-date: '2011-08-12 17:16:51 -0600'
-date_gmt: '2011-08-12 23:16:51 -0600'
-categories: []
-tags: []
-comments: []
 weight: 3
 ---
 The explosion shook the lab despite its magically indestructible walls. Students gathered in the hall around the laboratory as professors dashed bravely into the thick, acrid smoke billowing out the door. It seemed like an hour before two of the Academy&rsquo;s professors dragged her unconscious body out of the stinking cloud. Her robes were a tatters, blasted to shreds by the concussive force of the explosion and her face was black with soot and bore streaks of various other colors radiating out from her nose like a kaleidoscope. Her hair was thick and matted with ash and soot, its normally fine, platinum strands frozen in some parody of the explosion itself, as if it had been caught mid-way through blowing up and froze in fear of being seen.

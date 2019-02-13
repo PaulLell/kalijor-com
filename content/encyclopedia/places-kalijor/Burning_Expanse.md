@@ -1,6 +1,6 @@
-+++
-title = "Burning Expanse"
-+++
+---
+title: Burning Expanse
+---
 
 title:		Burning Expanse
 desc:		

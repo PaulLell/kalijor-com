@@ -1,6 +1,6 @@
-+++
-title = "Jonin Himabari"
-+++
+---
+title: Jonin Himabari
+---
 
 title:		Jonin Himabari
 desc:		

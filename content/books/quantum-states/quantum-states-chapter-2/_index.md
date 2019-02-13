@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2018-04-27T21:43:29-06:00
 title: Quantum States - Chapter 2
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1475
-wordpress_url: http://www.kalijor.com/?page_id=1475
-date: '2018-04-27 21:43:29 -0600'
-date_gmt: '2018-04-28 03:43:29 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 <i>&ldquo;Where are we going?&rdquo; I asked, clutching my fluffy pillow to my chest and following Mom out to the car. It was still early, four-thirty in the morning, I think. Mom had asked me to pack last night, and I&rsquo;d known about the trip for a couple weeks now, but they still hadn&rsquo;t told me where it was we were going.</i>
@@ -77,5 +59,4 @@ weight: 2
 
 &nbsp;
 
-<a href="https://www.kalijor.com/books/quantum-states/quantum-states-chapter-3">Chapter 3</a>
-
+[Chapter 3](../quantum-states-chapter-3)

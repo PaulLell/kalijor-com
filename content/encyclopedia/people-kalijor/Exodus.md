@@ -1,6 +1,6 @@
-+++
-title = "Exodus"
-+++
+---
+title: Exodus
+---
 
 title:		Exodus
 desc:		

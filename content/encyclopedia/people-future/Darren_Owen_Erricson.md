@@ -1,6 +1,6 @@
-+++
-title = "Darren Owen Erricson"
-+++
+---
+title: Darren Owen Erricson
+---
 
 title:		Darren Owen Erricson
 desc:		

@@ -1,7 +1,7 @@
-+++
-title = "Weapons of Kalijor"
-weight = 11
-+++
+---
+title: Weapons of Kalijor
+weight: 11
+---
 
 title:		Category:Weapons Kalijor
 desc:		

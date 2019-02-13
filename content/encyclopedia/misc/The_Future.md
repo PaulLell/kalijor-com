@@ -1,6 +1,6 @@
-+++
-title = "The Future"
-+++
+---
+title: The Future
+---
 
 # A brief History of Humanity's Rise
 

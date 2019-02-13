@@ -1,6 +1,6 @@
-+++
-title = "Almon Genloe"
-+++
+---
+title: Almon Genloe
+---
 
 # Vital Statistics
 

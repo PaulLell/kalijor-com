@@ -1,6 +1,6 @@
-+++
-title = "Gelid Mountains"
-+++
+---
+title: Gelid Mountains
+---
 
 title:		Gelid Mountains
 desc:		

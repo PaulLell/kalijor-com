@@ -1,6 +1,6 @@
-+++
-title = "På Rymi"
-+++
+---
+title: På Rymi
+---
 
 title:		På Rymi
 desc:		

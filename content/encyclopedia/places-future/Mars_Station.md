@@ -1,6 +1,6 @@
-+++
-title = "Mars Station"
-+++
+---
+title: Mars Station
+---
 
 title:		Mars Station
 desc:		

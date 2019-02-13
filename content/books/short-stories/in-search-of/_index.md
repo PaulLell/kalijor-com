@@ -1,25 +1,7 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:06:56-06:00
 title: In Search of...
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 99
-wordpress_url: http://www.kalijor.com/?page_id=99
-date: '2011-08-12 17:06:56 -0600'
-date_gmt: '2011-08-12 23:06:56 -0600'
-categories: []
-tags: []
-comments: []
-weight: 4
+weight: 2
 ---
 Riana&rsquo;s fingers screamed out at her to stop as she held onto the rock ledge with all her strength. Her long platinum tresses were matted about her finely featured face and her mage&rsquo;s robes were tangled around her thin body and long athletic legs as she dangled from the precipice with one hand.
 

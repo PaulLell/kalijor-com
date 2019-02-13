@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2013-05-15T21:05:09-06:00
 title: Chapter 2
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1056
-wordpress_url: http://www.kalijor.com/?page_id=1056
-date: '2013-05-15 21:05:09 -0600'
-date_gmt: '2013-05-16 03:05:09 -0600'
-categories: []
-tags: []
-comments: []
 weight: 2
 ---
 Riana had tried for quite a while to come up with some other word&nbsp; or description to refute the obvious appearance of what was happening before her. But, as hard as she thought about it, not to mention the words of her mother about&nbsp; her growing abilities, she'd just settled on using the word she kept trying to avoid: teleport. Simpler was so often better, and dealing with such esoteric concepts as point-to-point travel without actually traversing distance tended to break people's minds. So using familiar, simple words seemed the way to go.
@@ -111,5 +93,4 @@ Riana nodded, relieved by his acceptance of the situation, as she marked the tim
 
 &nbsp;
 
-<a href="https://www.kalijor.com/books/keys-of-kalijor/the-fifth-key-of-kalijor/chapter-3">Chapter 3</a>
-
+[Chapter 3](../chapter-3)

@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2017-04-20T21:39:44-06:00
 title: Quantum Entanglement - Prelude
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1441
-wordpress_url: http://www.kalijor.com/?page_id=1441
-date: '2017-04-20 21:39:44 -0600'
-date_gmt: '2017-04-21 03:39:44 -0600'
-categories: []
-tags: []
-comments: []
 weight: 1
 ---
 -Prelude-
@@ -82,5 +64,4 @@ His eyes darted around the room, one hand twitching toward the holster under his
 &ldquo;Do I look like a cheerleader to you?&rdquo; she asked, raising the barrel of her pistol to his head.<br />
 &nbsp;
 
-<a href="https://www.kalijor.com/books/quantum-entanglement/quantum-entanglement-interlude-1">Interlude 1</a>
-
+[Interlude 1](../quantum-entanglement-interlude-1)

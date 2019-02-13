@@ -1,6 +1,6 @@
-+++
-title = "Riana'S Body"
-+++
+---
+title: Riana'S Body
+---
 
 title:		Riana'S Body
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "The Seraphim"
-+++
+---
+title: The Seraphim
+---
 
 title:		The Seraphim
 desc:		

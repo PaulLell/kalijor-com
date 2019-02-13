@@ -1,6 +1,6 @@
-+++
-title = "Jumah Wataru"
-+++
+---
+title: Jumah Wataru
+---
 
 title:		Jumah Wataru
 desc:		

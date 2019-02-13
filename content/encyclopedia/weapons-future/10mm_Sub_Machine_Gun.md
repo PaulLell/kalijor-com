@@ -1,6 +1,6 @@
-+++
-title = "10Mm Sub Machine Gun"
-+++
+---
+title: 10Mm Sub Machine Gun
+---
 
 title:		10Mm Sub Machine Gun
 desc:		

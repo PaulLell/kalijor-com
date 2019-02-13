@@ -1,6 +1,6 @@
-+++
-title = "High Frequency Blade"
-+++
+---
+title: High Frequency Blade
+---
 
 title:		High Frequency Blade
 desc:		

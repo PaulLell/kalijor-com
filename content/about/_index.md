@@ -1,8 +1,8 @@
-+++
-title = "About"
-date = '2011-08-12T12:16:37-06:00'
-weight = 2
-+++
+---
+date: "2011-08-12T12:16:37-06:00"
+title: About
+weight: 2
+---
 
 [The Author](/about/author/)
 

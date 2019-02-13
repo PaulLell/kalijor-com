@@ -1,25 +1,7 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:04:15-06:00
 title: An Orc is an Orc
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 96
-wordpress_url: http://www.kalijor.com/?page_id=96
-date: '2011-08-12 17:04:15 -0600'
-date_gmt: '2011-08-12 23:04:15 -0600'
-categories: []
-tags: []
-comments: []
-weight: 2
+weight: 1
 ---
 Riana dropped to the ground so quickly that her long platinum hair hung in the air for an instant allowing the razor sharp blade to shear off several inches of her thick tresses before gravity could pull them out of the way. She threw her weight to the right, twisting her svelte frame around as she rolled away from the heavy boot that was now moving swiftly toward her head. 
 

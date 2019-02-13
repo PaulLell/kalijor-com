@@ -1,6 +1,6 @@
-+++
-title = "Nuiri Qatnio"
-+++
+---
+title: Nuiri Qatnio
+---
 
 title:		Nuiri Qatnio
 desc:		

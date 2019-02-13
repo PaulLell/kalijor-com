@@ -1,6 +1,6 @@
-+++
-title = "Pandoria"
-+++
+---
+title: Pandoria
+---
 
 title:		Pandoria
 desc:		

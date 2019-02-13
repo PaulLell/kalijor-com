@@ -1,6 +1,6 @@
-+++
-title = "Gornin"
-+++
+---
+title: Gornin
+---
 
 title:		Gornin
 desc:		

@@ -1,6 +1,6 @@
-+++
-title = "Tranquility"
-+++
+---
+title: Tranquility
+---
 
 title:		Tranquility
 desc:		

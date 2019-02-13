@@ -1,6 +1,6 @@
-+++
-title = "Ceres"
-+++
+---
+title: Ceres
+---
 
 title:		Ceres
 desc:		

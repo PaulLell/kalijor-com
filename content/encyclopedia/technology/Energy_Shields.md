@@ -1,6 +1,6 @@
-+++
-title = "Energy Shields"
-+++
+---
+title: Energy Shields
+---
 
 title:		Energy Shields
 desc:		

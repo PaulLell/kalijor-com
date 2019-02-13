@@ -1,6 +1,6 @@
-+++
-title = "Bête Noire"
-+++
+---
+title: Bête Noire
+---
 
 title:		Bête Noire
 desc:		

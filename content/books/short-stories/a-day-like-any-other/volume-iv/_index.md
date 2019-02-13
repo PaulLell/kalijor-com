@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2011-08-12T17:32:19-06:00
 title: Volume IV
-main_nav: false
-author:
-  display_name: garibaldi0
-  login: garibaldi0
-  email: mike@garibaldi0.com
-  url: http://www.facebook.com/garibaldi0
-author_login: garibaldi0
-author_email: mike@garibaldi0.com
-author_url: http://www.facebook.com/garibaldi0
-wordpress_id: 120
-wordpress_url: http://www.kalijor.com/?page_id=120
-date: '2011-08-12 17:32:19 -0600'
-date_gmt: '2011-08-12 23:32:19 -0600'
-categories: []
-tags: []
-comments: []
 weight: 4
 ---
 As he made his way around the last corner, leading to the hanger where the Neophyte Serendipity was berthed, he knew he was in for a long day. The sound of the emergency alarm rang out from his hangar and the pressure door appeared to be bent into the hallway, having been forced open from the inside. Silently he cursed to himself as he drew his pistol and dashed down the hallway, sliding up to the door with his back to the wall.

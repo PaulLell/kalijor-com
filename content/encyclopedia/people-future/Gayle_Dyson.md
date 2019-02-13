@@ -1,6 +1,6 @@
-+++
-title = "Gayle Dyson"
-+++
+---
+title: Gayle Dyson
+---
 
 title:		Gayle Dyson
 desc:		

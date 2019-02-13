@@ -1,6 +1,6 @@
-+++
-title = "Xanthe"
-+++
+---
+title: Xanthe
+---
 
 title:		Xanthe
 desc:		

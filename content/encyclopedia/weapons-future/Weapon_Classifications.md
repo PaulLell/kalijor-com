@@ -1,6 +1,6 @@
-+++
-title = "Weapon Classifications"
-+++
+---
+title: Weapon Classifications
+---
 
 title:		Weapon Classifications
 desc:		

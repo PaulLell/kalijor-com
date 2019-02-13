@@ -1,24 +1,6 @@
 ---
-layout: page
-status: publish
-published: true
+date: 2014-04-15T09:40:28-06:00
 title: Chapter 3
-main_nav: false
-author:
-  display_name: PaulLell
-  login: PaulLell
-  email: Paul_Lell@Kalijor.com
-  url: http://www.Kalijor.com
-author_login: PaulLell
-author_email: Paul_Lell@Kalijor.com
-author_url: http://www.Kalijor.com
-wordpress_id: 1370
-wordpress_url: http://www.kalijor.com/?page_id=1370
-date: '2014-04-15 09:40:28 -0600'
-date_gmt: '2014-04-15 15:40:28 -0600'
-categories: []
-tags: []
-comments: []
 weight: 4
 ---
 <h1 style="text-align: center;">-3-</h1>
