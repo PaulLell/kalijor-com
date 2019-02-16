@@ -3,231 +3,265 @@ date: 2013-12-09 10:20:05 -0700
 title: Kalijor RPG Core Book Errata
 weight: 1
 ---
+
 Changes, adjustments, and missed material from the Kalijor RPG Core Book.
 
-<p style="text-align: center;">----------
+----------
 
-The base target number to resist anything is 12, unless otherwise stated. Many poisons/toxins, abilities, spells, and other effects will have a different target, but if they do, it will be specifically called out in their descriptions. If they say 'standard' then the number to beat is 12.
+The base target number to resist anything is 12, unless otherwise stated. Many
+poisons/toxins, abilities, spells, and other effects will have a different
+target, but if they do, it will be specifically called out in their
+descriptions. If they say 'standard' then the number to beat is 12.
 
-Similarly, in Kalijor, all pure spell casters (Mage, Cleric, Druid, Shaman, Geomancer) get a bonus of +1 to the target resist of their spells at levels 5, 10, 15, 20, and every three (3) levels thereafter. Hybrid classes (Templar, Ranger, Spell-Sword) receive a bonus of +1 to the target resist of their spells at levels 10, 20, and every five (5) levels thereafter.
+Similarly, in Kalijor, all pure spell casters (Mage, Cleric, Druid, Shaman,
+Geomancer) get a bonus of +1 to the target resist of their spells at levels 5,
+10, 15, 20, and every three (3) levels thereafter. Hybrid classes (Templar,
+Ranger, Spell-Sword) receive a bonus of +1 to the target resist of their spells
+at levels 10, 20, and every five (5) levels thereafter.
 
-In the future, all Psi-Line characters gain a bonus of +1 to the target resist of their abilities at levels 5, 10, 15, 20, and every three (3) levels thereafter.
+In the future, all Psi-Line characters gain a bonus of +1 to the target resist
+of their abilities at levels 5, 10, 15, 20, and every three (3) levels
+thereafter.
 
-This means that a 15th level Mage, or Psi-Line character can use the same abilities as a 1st level character, but their abilities are honed to the point that targets must roll a 15 or better to resist their effects, rather than the standard 12.
+This means that a 15th level Mage, or Psi-Line character can use the same
+abilities as a 1st level character, but their abilities are honed to the point
+that targets must roll a 15 or better to resist their effects, rather than the
+standard 12.
 
-In the racial descriptions for Kalijor, the human is described as having 1D6x10+60 attribute pool points, but it should be the same 2D6x10+60 as Base-Line Humans in the future setting.
+In the racial descriptions for Kalijor, the human is described as having
+1D6x10+60 attribute pool points, but it should be the same 2D6x10+60 as
+Base-Line Humans in the future setting.
 
-<p style="text-align: center;">----------
+----------
 
-In the consumer and military pressure suits and hard armors section (page 237 in the retail version but may be a couple pages off from earlier versions due to formatting changes), we missed a few of the Physical Health and soak values during revisions. the finalized info is as follows:
+In the consumer and military pressure suits and hard armors section (page 237 in
+the retail version but may be a couple pages off from earlier versions due to
+formatting changes), we missed a few of the Physical Health and soak values
+during revisions. the finalized info is as follows:
 
-<b>Class 1 consumer pressure suit</b>
+**Class 1 consumer pressure suit**
 
-This suit is a &lsquo;soft&rsquo; suit that is designed for nothing more than protection against the frigid vacuum of space. Built-in air supply is good for 8 hours.
+This suit is a ‘soft’ suit that is designed for nothing more than protection
+against the frigid vacuum of space. Built-in air supply is good for 8 hours.
 
-<b>Physical Health</b>: 50
+**Physical Health**: 50
 
-<b>Soak: </b>1
+**Soak: **1
 
-<b>Prowl Penalty</b>: None
+**Prowl Penalty**: None
 
-<b>Armor Class:</b> Light Pressure Suit
+**Armor Class:** Light Pressure Suit
 
-<b>Cost:</b> 500 credits
+**Cost:** 500 credits
 
-&nbsp;
+**Class 2 consumer pressure suit**
 
-<b>Class 2 consumer pressure suit</b>
+This suit is designed for more industrial/work related activities. Intended for
+those who work outside habitable areas on the surfaces of planets and
+planetoids. Its surfaces are reinforced with some armored plates to protect
+against minor damage and tumbles although it is still considered to be a ‘soft’
+armor. Built-in air supply is good for 8 hours.
 
-This suit is designed for more industrial/work related activities. Intended for those who work outside habitable areas on the surfaces of planets and planetoids. Its surfaces are reinforced with some armored plates to protect against minor damage and tumbles although it is still considered to be a &lsquo;soft&rsquo; armor. Built-in air supply is good for 8 hours.
+**Physical Health**: 75
 
-<b>Physical Health</b>: 75
+**Soak: **3
 
-<b>Soak: </b>3
+**Prowl Penalty**: -5
 
-<b>Prowl Penalty</b>: -5
+**Armor Class:** Medium Pressure Suit
 
-<b>Armor Class:</b> Medium Pressure Suit
+**Cost:** 850 credits
 
-<b>Cost:</b> 850 credits
+**Class 3 consumer pressure suit**
 
-&nbsp;
+This suit is designed to be used while in open space for long periods of time.
+It is reinforced for protection against collision of micro-meteors and other
+space debris, which also affords it some minor protection against small arms
+fire. This suit is considered to be ‘hard’ armor and its built-in air supply is
+good for 10 hours. Additionally, this armor is equipped with as many as 25 tiny
+maneuvering jets that allow the wearer to make getting around in the vacuum of
+space much easier and more efficient. These jets are not designed for sustained
+travel, but rather for turning, adjusting attitude and making short trips
+between structures/ships (add +5 to the zero-g movement skill).
 
-<b>Class 3 consumer pressure suit</b>
+**Physical Health**: 100
 
-This suit is designed to be used while in open space for long periods of time. It is reinforced for protection against collision of micro-meteors and other space debris, which also affords it some minor protection against small arms fire. This suit is considered to be &lsquo;hard&rsquo; armor and its built-in air supply is good for 10 hours. Additionally, this armor is equipped with as many as 25 tiny maneuvering jets that allow the wearer to make getting around in the vacuum of space much easier and more efficient. These jets are not designed for sustained travel, but rather for turning, adjusting attitude and making short trips between structures/ships (add +5 to the zero-g movement skill).
+**Soak: **5
 
-<b>Physical Health</b>: 100
+**Prowl Penalty: **-10
 
-<b>Soak: </b>5
+**Armor Class:** Heavy Pressure Suit
 
-<b>Prowl Penalty: </b>-10
+**Cost:** 1,500 credits
 
-<b>Armor Class:</b> Heavy Pressure Suit
+**Class 1 military pressure suit**
 
-<b>Cost:</b> 1,500 credits
+This suit is not only designed for use in an airless environment, but it has
+also been reinforced on all major surfaces with composite materials and plates
+that protect against a moderate amount of weapons fire. The built-in air supply
+is good for 10 hours.
 
-&nbsp;
+**Physical Health**: 45
 
-<b>Class 1 military pressure suit</b>
+**Soak: **5
 
-This suit is not only designed for use in an airless environment, but it has also been reinforced on all major surfaces with composite materials and plates that protect against a moderate amount of weapons fire. The built-in air supply is good for 10 hours.
+**Prowl Penalty:** -5
 
-<b>Physical Health</b>: 45
+**Armor Class:** Medium Pressure Suit
 
-<b>Soak: </b>5
+**Cost:** 2,500 credits
 
-<b>Prowl Penalty:</b> -5
+**Class 2 military pressure suit**
 
-<b>Armor Class:</b> Medium Pressure Suit
+More or less just a beefed up version of the class 1 military suit, this system
+offers more protection against damage as well as an increase in air supply.
+Built-in air supply is good for 12 hours. Additionally, this armor is equipped
+with as many as 25 tiny maneuvering jets that allow the wearer to make getting
+around in the vacuum of space much easier and more efficient. These jets are not
+designed for sustained travel, but rather for turning, adjusting attitude and
+making short trips between structures/ships (add +5 to the zero-g movement
+skill).
 
-<b>Cost:</b> 2,500 credits
+**Physical Health**: 65
 
-&nbsp;
+**Soak: **6
 
-<b>Class 2 military pressure suit</b>
+**Prowl Penalty:** -10
 
-More or less just a beefed up version of the class 1 military suit, this system offers more protection against damage as well as an increase in air supply. Built-in air supply is good for 12 hours. Additionally, this armor is equipped with as many as 25 tiny maneuvering jets that allow the wearer to make getting around in the vacuum of space much easier and more efficient. These jets are not designed for sustained travel, but rather for turning, adjusting attitude and making short trips between structures/ships (add +5 to the zero-g movement skill).
+**Armor Class:** Heavy Pressure Suit
 
-<b>Physical Health</b>: 65
+**Cost:** 4,500
 
-<b>Soak: </b>6
+**Class 3 military pressure suit**
 
-<b>Prowl Penalty:</b> -10
+This suit affords its wearer the maximum amount of protection without actually
+getting them into a suit of powered or robot armor. Built-in air supply is good
+for 18 hours. Additionally, this armor is equipped with as many as 25 tiny
+maneuvering jets that allow the wearer to make getting around in the vacuum of
+space much easier and more efficient. These jets are not designed for sustained
+travel, but rather for turning, adjusting attitude and making short trips
+between structures/ships (add +5 to the zero-g movement skill).
 
-<b>Armor Class:</b> Heavy Pressure Suit
+**Physical Health**: 85
 
-<b>Cost:</b> 4,500
+**Soak: **7
 
-&nbsp;
+**Prowl Penalty: **-15
 
-<b>Class 3 military pressure suit</b>
+**Armor Class:** Heavy Pressure Suit
 
-This suit affords its wearer the maximum amount of protection without actually getting them into a suit of powered or robot armor. Built-in air supply is good for 18 hours. Additionally, this armor is equipped with as many as 25 tiny maneuvering jets that allow the wearer to make getting around in the vacuum of space much easier and more efficient. These jets are not designed for sustained travel, but rather for turning, adjusting attitude and making short trips between structures/ships (add +5 to the zero-g movement skill).
+**Cost:** 9,000 credits
 
-<b>Physical Health</b>: 85
+**Class A consumer hard armor**
 
-<b>Soak: </b>7
+This armor is designed as an under-clothes body protection against minor small
+arms fire. It is only good for absorbing a few rounds and normally must be
+discarded after it takes fire, rather than being repaired. Because the armor
+only covers a portion of the body it's ability to soak damage is reduced.
 
-<b>Prowl Penalty: </b>-15
+**Physical Health**: 40
 
-<b>Armor Class:</b> Heavy Pressure Suit
+**Soak: **2
 
-<b>Cost:</b> 9,000 credits
+**Prowl Penalty: **None
 
-&nbsp;
+**Armor Class:** Light Armor
 
-<b>Class A consumer hard armor</b>
+**Cost:** 400 credits
 
-This armor is designed as an under-clothes body protection against minor small arms fire. It is only good for absorbing a few rounds and normally must be discarded after it takes fire, rather than being repaired. Because the armor only covers a portion of the body it's ability to soak damage is reduced.
+**Class B consumer hard armor**
 
-<b>Physical Health</b>: 40
+Simply a beefed up version of the Class A armor, this piece will still fit under
+normal clothing without looking terribly conspicuous.
 
-<b>Soak: </b>2
+**Physical Health**: 65
 
-<b>Prowl Penalty: </b>None
+**Soak: **3
 
-<b>Armor Class:</b> Light Armor
+**Prowl Penalty:** -5
 
-<b>Cost:</b> 400 credits
+**Armor Class:** Medium Armor
 
-&nbsp;
+**Cost:** 1,200 credits
 
-<b>Class B consumer hard armor</b>
+**Class C consumer hard armor**
 
-Simply a beefed up version of the Class A armor, this piece will still fit under normal clothing without looking terribly conspicuous.
+This armor is designed to protect the wearer from a much more significant amount
+of weapons fire. It includes a helmet, shoulder, forearm, thigh, shin and groin
+protection. It is impossible to conceal this armor beneath any normal clothing
+although it could be mostly covered up by the use of a trench coat or cloak.
 
-<b>Physical Health</b>: 65
+**Physical Health: **100
 
-<b>Soak: </b>3
+**Soak: **5
 
-<b>Prowl Penalty:</b> -5
+**Prowl Penalty:** -25
 
-<b>Armor Class:</b> Medium Armor
+**Armor Class:** Heavy Armor
 
-<b>Cost:</b> 1,200 credits
+**Cost:** 5,000 credits
 
-&nbsp;
+**Class A military hard armor**
 
-<b>Class C consumer hard armor</b>
+This piece of armor is designed as a concealable vest for use in public,
+under-cover operations. It provides a minimum level of protection for its wearer
+but it is still better than the civilian version.
 
-This armor is designed to protect the wearer from a much more significant amount of weapons fire. It includes a helmet, shoulder, forearm, thigh, shin and groin protection. It is impossible to conceal this armor beneath any normal clothing although it could be mostly covered up by the use of a trench coat or cloak.
+**Physical Health**: 50
 
-<b>Physical Health: </b>100
+**Soak: **3
 
-<b>Soak: </b>5
+**Prowl Penalty:** None
 
-<b>Prowl Penalty:</b> -25
+**Armor Class:** Light Armor
 
-<b>Armor Class:</b> Heavy Armor
+**Cost:** 5,500 credits
 
-<b>Cost:</b> 5,000 credits
+**Class B military hard armor**
 
-&nbsp;
+This armor comes in the form of a chest piece with shoulder, thigh, shin,
+forearm and groin protection and is designed for maximum flexibility and minimum
+encumbrance.
 
-<b>Class A military hard armor</b>
+**Physical Health**: 85
 
-This piece of armor is designed as a concealable vest for use in public, under-cover operations. It provides a minimum level of protection for its wearer but it is still better than the civilian version.
+**Soak: **4
 
-<b>Physical Health</b>: 50
+**Prowl Penalty:** None
 
-<b>Soak: </b>3
+**Armor Class:** Medium Armor
 
-<b>Prowl Penalty:</b> None
+**Cost:** 7,500 credits
 
-<b>Armor Class:</b> Light Armor
+**Class C military hard armor**
 
-<b>Cost:</b> 5,500 credits
+This suit is a more robust, environmentally sealed suit that is good for use in
+airless environments should the need arise. Built-in air supply is good for 6
+hours.
 
-&nbsp;
+**Physical Health**: 100
 
-<b>Class B military hard armor</b>
+**Soak: **6
 
-This armor comes in the form of a chest piece with shoulder, thigh, shin, forearm and groin protection and is designed for maximum flexibility and minimum encumbrance.
+**Prowl Penalty:** -15
 
-<b>Physical Health</b>: 85
+**Armor Class:** Medium Environmental Armor
 
-<b>Soak: </b>4
+**Cost:** 10,200 credits
 
-<b>Prowl Penalty:</b> None
+**Class D military hard armor**
 
-<b>Armor Class:</b> Medium Armor
+This is as tough as generic personal armor gets. This suit comes equipped with
+heavy reinforcing at all of the major joints, is environmentally sealed with a
+10 hour air supply and provides the wearer with minor motor-assistance in order
+to compensate for the weight and bulk of the suit itself.
 
-<b>Cost:</b> 7,500 credits
+**Physical Health**: 200
 
-&nbsp;
+**Soak: **8
 
-<b>Class C military hard armor</b>
+**Prowl Penalty:** -50
 
-This suit is a more robust, environmentally sealed suit that is good for use in airless environments should the need arise. Built-in air supply is good for 6 hours.
+**Armor Class:** Heavy Environmental Armor
 
-<b>Physical Health</b>: 100
-
-<b>Soak: </b>6
-
-<b>Prowl Penalty:</b> -15
-
-<b>Armor Class:</b> Medium Environmental Armor
-
-<b>Cost:</b> 10,200 credits
-
-&nbsp;
-
-<b>Class D military hard armor</b>
-
-This is as tough as generic personal armor gets. This suit comes equipped with heavy reinforcing at all of the major joints, is environmentally sealed with a 10 hour air supply and provides the wearer with minor motor-assistance in order to compensate for the weight and bulk of the suit itself.
-
-<b>Physical Health</b>: 200
-
-<b>Soak: </b>8
-
-<b>Prowl Penalty:</b> -50
-
-<b>Armor Class:</b> Heavy Environmental Armor
-
-<b>Cost:</b> 50,000 credits
-
-&nbsp;
-
-&nbsp;
-
+**Cost:** 50,000 credits

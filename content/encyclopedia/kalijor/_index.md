@@ -3,13 +3,10 @@ title: Kalijor
 weight: 3
 ---
 
-[The Future](The_Future)
-[The Conglomerate](The_Conglomerate "wikilink")
-[Kalijor](Kalijor "wikilink")
+![Kalijor_by_bokuman.jpg](/images/Kalijor_by_bokuman.jpg)
 
-## Encyclopedia Kalijor Categories
+[The Future](../misc/the_future)
 
-![Kalijor_by_bokuman.jpg](/images/Kalijor_by_bokuman.jpg
-"Kalijor_by_bokuman.jpg")
+[The Conglomerate](../corporations/the_conglomerate)
 
-[Category:Encyclopedia](Category:Encyclopedia "wikilink")
+[Encyclopedia](../)

@@ -2,44 +2,38 @@
 title: Kaden Mcginley
 ---
 
-title:		Kaden Mcginley
-desc:		
-date:		2019/01/25
-version:	1.0.0
-template:	
-nav:		Kaden_Mcginley
-percent:	100
-authors:	
-## Vital Statistics
+# Vital Statistics
 
 **Full Name:** Kaden McGinley
+
 **Aliases:**
+
 **Avatar/Player:**
+
 **Occupation:** Runner
+
 **Date of Birth:**
+
 **Height:**
+
 **Weight:**
+
 **Hair Color:**
+
 **Eye Color:**
+
 **Physical Description:**
 
-## General Description
+# General Description
 
-Friend of [Alina Martin](Alina_Martin "wikilink") and [Niko
-Nori](Niko_Nori "wikilink")
+Friend of [Alina Martin](../alina_martin) and [Niko Nori](../niko_nori)
 
-## Skills of Note
+# Skills of Note
 
-## Equipment of Note
+# Equipment of Note
 
-## History
+# History
 
-## Spoilers
+# Spoilers
 
-<spoiler text="Status">Status: Living</spoiler>
-
-[category:People_Future](category:People_Future "wikilink")---
-title: Kaden McGinley
-permalink: /Kaden_McGinley/
----
-
+Status: Living
