@@ -1,4 +1,4 @@
 ---
 {}
 ---
-By Michael Ethridge
+By Michael Ethridge, in conjunction with Paul Lell
