@@ -393,14 +393,6 @@
   </url>
   
   <url>
-    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikicommon.css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kalijor.garibaldi0.com/encyclopedia/misc/mediawikisidebar/</loc>
-  </url>
-  
-  <url>
     <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-future/10mm_handgun/</loc>
   </url>
   
@@ -659,6 +651,10 @@
   
   <url>
     <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/interstellar_travel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/intrastellar_travel/</loc>
   </url>
   
   <url>
@@ -1032,10 +1028,6 @@
   
   <url>
     <loc>https://kalijor.garibaldi0.com/encyclopedia/weapons-kalijor/zyrik/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kalijor.garibaldi0.com/encyclopedia/technology/intrastellar_travel/</loc>
   </url>
   
 </urlset>
