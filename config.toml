@@ -1,4 +1,4 @@
-publishDir = "docs"
+#publishDir = "docs"
 #baseURL = "https://www.kalijor.com/"
 baseURL = "https://kalijor.garibaldi0.com/"
 languageCode = "en_us"
