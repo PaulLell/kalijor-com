@@ -1,0 +1,36 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+      # Add my CircleCI Bot SSH Key
+      - add_ssh_keys:
+          fingerprints:
+              - "48:6e:61:39:08:f0:94:c3:6f:37:49:98:21:1e:75:22"
+     # install git
+      - run: apk update && apk add git
+      # checkout the repository
+      - checkout
+      # install git submodules for managing third-party dependencies
+      - run: git submodule sync && git submodule update --init
+      # Link the public dir to the gh-pages branch
+      - run: rm -fr $HUGO_BUILD_DIR && git worktree add -B gh-pages $HUGO_BUILD_DIR origin/gh-pages
+      # build with Hugo
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      # Set some variables to add to the commit message
+      - run: git config --global user.email "bot@circleci.com" && git config --global user.name "CircleCI Bot"
+      # Push the generated files back to github
+      - run: cd $HUGO_BUILD_DIR && git add --all && git commit -m "Automated publish to gh-pages [ci skip]" && git push
+workflows:
+  version: 2
+  workflow:
+    jobs:
+    - build:
+        filters:
+          branches:
+            ignore:
+            - gh-pages
