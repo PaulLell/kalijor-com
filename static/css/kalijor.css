@@ -5,7 +5,7 @@ article {
 body,
 footer,
 article > aside {
-  background: gray
+  background: grey
 }
 
 article section.page img.a-left {
